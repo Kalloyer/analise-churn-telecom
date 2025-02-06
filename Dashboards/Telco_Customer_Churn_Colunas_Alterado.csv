@@ -1,0 +1,1001 @@
+customerID,genero,idoso,conjuge,dependentes,tempo_permanecido,servico_telefone,multiplas_linhas,servico_internet,seguranca_online,backup_online,protecao_dispositivo,suporte_ti,streaming_tv,streaming_movies,tempo_contratual,cobranca_digital,metodo_pagamento,cobranca_mensal,total_cobranca,churn
+7590-VHVEG,Mulher,0,Sim,Não,1,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,29.85,29.85,Não
+5575-GNVDE,Homem,0,Não,Não,34,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Não,Não,Não,Um ano,Não,Cobrança Correio,56.95,1889.5,Não
+3668-QPYBK,Homem,0,Não,Não,2,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,53.85,108.15,Sim
+7795-CFOCW,Homem,0,Não,Não,45,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Um ano,Não,Transferência Bancária,42.3,1840.75,Não
+9237-HQITU,Mulher,0,Não,Não,2,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,70.7,151.65,Sim
+9305-CDSKC,Mulher,0,Não,Não,8,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,99.65,820.5,Sim
+1452-KIOVK,Homem,0,Não,Sim,22,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Mês a mês,Sim,Cartão de Crédito,89.1,1949.4,Não
+6713-OKOMC,Mulher,0,Não,Não,10,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,29.75,301.9,Não
+7892-POOKP,Mulher,0,Sim,Não,28,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,104.8,3046.05,Sim
+6388-TABGU,Homem,0,Não,Sim,62,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Um ano,Não,Transferência Bancária,56.15,3487.95,Não
+9763-GRSKD,Homem,0,Sim,Sim,13,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,49.95,587.45,Não
+7469-LKBCI,Homem,0,Não,Não,16,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,18.95,326.8,Não
+8091-TTVAX,Homem,0,Sim,Não,58,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Um ano,Não,Cartão de Crédito,100.35,5681.1,Não
+0280-XJGEX,Homem,0,Não,Não,49,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Transferência Bancária,103.7,5036.3,Sim
+5129-JLPIS,Homem,0,Não,Não,25,Sim,Não,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,105.5,2686.05,Não
+3655-SNQYZ,Mulher,0,Sim,Sim,69,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cartão de Crédito,113.25,7895.15,Não
+8191-XWSZG,Mulher,0,Não,Não,52,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,20.65,1022.95,Não
+9959-WOFKT,Homem,0,Não,Sim,71,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Não,Sim,Sim,Dois anos,Não,Transferência Bancária,106.7,7382.25,Não
+4190-MFLUW,Mulher,0,Sim,Sim,10,Sim,Não,Sem Fibra Óptica,Não,Não,Sim,Sim,Não,Não,Mês a mês,Não,Cartão de Crédito,55.2,528.35,Sim
+4183-MYFRB,Mulher,0,Não,Não,21,Sim,Não,Fibra Óptica,Não,Sim,Sim,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,90.05,1862.9,Não
+8779-QRDMV,Homem,1,Não,Não,1,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Sim,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,39.65,39.65,Sim
+1680-VDCWW,Homem,0,Sim,Não,12,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Transferência Bancária,19.8,202.25,Não
+1066-JKSGK,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.15,20.15,Sim
+3638-WEABW,Mulher,0,Sim,Não,58,Sim,Sim,Sem Fibra Óptica,Não,Sim,Não,Sim,Não,Não,Dois anos,Sim,Cartão de Crédito,59.9,3505.1,Não
+6322-HRPFA,Homem,0,Sim,Sim,49,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Sim,Não,Não,Mês a mês,Não,Cartão de Crédito,59.6,2970.3,Não
+6865-JZNKO,Mulher,0,Não,Não,30,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,55.3,1530.6,Não
+6467-CHFZW,Homem,0,Sim,Sim,47,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,99.35,4749.15,Sim
+8665-UTDHZ,Homem,0,Sim,Sim,1,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,30.2,30.2,Sim
+5248-YGIJN,Homem,0,Sim,Não,72,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,90.25,6369.45,Não
+8773-HHUOZ,Mulher,0,Não,Sim,17,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Correio,64.7,1093.1,Sim
+3841-NFECX,Mulher,1,Sim,Não,71,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Não,Não,Dois anos,Sim,Cartão de Crédito,96.35,6766.95,Não
+4929-XIHVW,Homem,1,Sim,Não,2,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,95.5,181.65,Não
+6827-IEAUQ,Mulher,0,Sim,Sim,27,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Não,Não,Um ano,Não,Cobrança Correio,66.15,1874.45,Não
+7310-EGVHZ,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Transferência Bancária,20.2,20.2,Não
+3413-BMNZE,Homem,1,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,45.25,45.25,Não
+6234-RAAPL,Mulher,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Sim,Sim,Não,Dois anos,Não,Transferência Bancária,99.9,7251.7,Não
+6047-YHPVI,Homem,0,Não,Não,5,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,69.7,316.9,Sim
+6572-ADKRS,Mulher,0,Não,Não,46,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,74.8,3548.3,Não
+5380-WJKOV,Homem,0,Não,Não,34,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,106.35,3549.25,Sim
+8168-UQWWF,Mulher,0,Não,Não,11,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Transferência Bancária,97.85,1105.4,Sim
+8865-TNMNX,Homem,0,Sim,Sim,10,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Um ano,Não,Cobrança Correio,49.55,475.7,Não
+9489-DEDVP,Mulher,0,Sim,Sim,70,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Não,Não,Sim,Não,Dois anos,Sim,Cartão de Crédito,69.2,4872.35,Não
+9867-JCZSP,Mulher,0,Sim,Sim,17,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,20.75,418.25,Não
+4671-VJLCL,Mulher,0,Não,Não,63,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Não,Dois anos,Sim,Cartão de Crédito,79.85,4861.45,Não
+4080-IIARD,Mulher,0,Sim,Não,13,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Não,Sim,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,76.2,981.45,Não
+3714-NTNFO,Mulher,0,Não,Não,49,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,84.5,3906.7,Não
+5948-UJZLF,Homem,0,Não,Não,2,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,49.25,97,Não
+7760-OYPDY,Mulher,0,Não,Não,2,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,80.65,144.15,Sim
+7639-LIAYI,Homem,0,Não,Não,52,Sim,Sim,Sem Fibra Óptica,Sim,Não,Não,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,79.75,4217.8,Não
+2954-PIBKO,Mulher,0,Sim,Sim,69,Sim,Sim,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Dois anos,Sim,Cartão de Crédito,64.15,4254.1,Não
+8012-SOUDQ,Mulher,1,Não,Não,43,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,90.25,3838.75,Não
+9420-LOJKX,Mulher,0,Não,Não,15,Sim,Não,Fibra Óptica,Sim,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,99.1,1426.4,Sim
+6575-SUVOI,Mulher,1,Sim,Não,25,Sim,Sim,Sem Fibra Óptica,Sim,Não,Não,Sim,Sim,Não,Mês a mês,Sim,Cartão de Crédito,69.5,1752.65,Não
+7495-OOKFY,Mulher,1,Sim,Não,8,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,80.65,633.3,Sim
+4667-QONEA,Mulher,1,Sim,Sim,60,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Não,Sim,Um ano,Sim,Cartão de Crédito,74.85,4456.35,Não
+1658-BYGOY,Homem,1,Não,Não,18,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,95.45,1752.55,Sim
+8769-KKTPH,Mulher,0,Sim,Sim,63,Sim,Sim,Fibra Óptica,Sim,Não,Não,Não,Sim,Sim,Um ano,Sim,Cartão de Crédito,99.65,6311.2,Não
+5067-XJQFU,Homem,1,Sim,Sim,66,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,108.45,7076.35,Não
+3957-SQXML,Mulher,0,Sim,Sim,34,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,24.95,894.3,Não
+5954-BDFSG,Mulher,0,Não,Não,72,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,107.5,7853.7,Não
+0434-CSFON,Mulher,0,Sim,Não,47,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,100.5,4707.1,Não
+1215-FIGMP,Homem,0,Não,Não,60,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Mês a mês,Sim,Transferência Bancária,89.9,5450.7,Não
+0526-SXDJP,Homem,0,Sim,Não,72,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Não,Não,Não,Dois anos,Não,Transferência Bancária,42.1,2962,Não
+0557-ASKVU,Mulher,0,Sim,Sim,18,Sim,Não,Sem Fibra Óptica,Não,Não,Sim,Sim,Não,Não,Um ano,Sim,Cartão de Crédito,54.4,957.1,Não
+5698-BQJOH,Mulher,0,Não,Não,9,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Não,Cobrança Eletrônica,94.4,857.25,Sim
+5122-CYFXA,Mulher,0,Não,Não,3,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,75.3,244.1,Não
+8627-ZYGSZ,Homem,0,Sim,Não,47,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Um ano,Sim,Cobrança Eletrônica,78.9,3650.35,Não
+3410-YOQBQ,Mulher,0,Não,Não,31,Sim,Não,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cobrança Correio,79.2,2497.2,Não
+3170-NMYVV,Mulher,0,Sim,Sim,50,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,20.15,930.9,Não
+7410-OIEDU,Homem,0,Não,Não,10,Sim,Não,Fibra Óptica,Sim,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,79.85,887.35,Não
+2273-QCKXA,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Sim,Não,Não,Mês a mês,Não,Cobrança Correio,49.05,49.05,Não
+0731-EBJQB,Mulher,0,Sim,Sim,52,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Sim,Cobrança Eletrônica,20.4,1090.65,Não
+1891-QRQSA,Homem,1,Sim,Sim,64,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,111.6,7099,Não
+8028-PNXHQ,Homem,0,Sim,Sim,62,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Transferência Bancária,24.25,1424.6,Não
+5630-AHZIL,Mulher,0,Não,Sim,3,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Sim,Mês a mês,Sim,Transferência Bancária,64.5,177.4,Não
+2673-CXQEU,Mulher,1,Não,Não,56,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Um ano,Não,Cobrança Eletrônica,110.5,6139.5,Não
+6416-JNVRK,Mulher,0,Não,Não,46,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Sim,Um ano,Não,Cartão de Crédito,55.65,2688.85,Não
+5590-ZSKRV,Mulher,0,Sim,Sim,8,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,54.65,482.25,Não
+0191-ZHSKZ,Homem,1,Não,Não,30,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,74.75,2111.3,Não
+3887-PBQAO,Mulher,0,Sim,Sim,45,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Sim,Cartão de Crédito,25.9,1216.6,Não
+5919-TMRGD,Mulher,0,Não,Sim,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,79.35,79.35,Sim
+8108-UXRQN,Mulher,0,Sim,Sim,11,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Não,Sim,Sim,Mês a mês,Não,Cobrança Eletrônica,50.55,565.35,Não
+9191-MYQKX,Mulher,0,Sim,Não,7,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,75.15,496.9,Sim
+9919-YLNNG,Mulher,0,Não,Não,42,Sim,Não,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Mês a mês,Sim,Transferência Bancária,103.8,4327.5,Não
+0318-ZOPWS,Mulher,0,Sim,Não,49,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Transferência Bancária,20.15,973.35,Não
+4445-ZJNMU,Homem,0,Não,Não,9,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,99.3,918.75,Não
+4808-YNLEU,Mulher,0,Sim,Não,35,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Não,Sim,Não,Um ano,Sim,Transferência Bancária,62.15,2215.45,Não
+1862-QRWPE,Mulher,0,Sim,Sim,48,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,20.65,1057,Não
+2796-NNUFI,Mulher,0,Sim,Sim,46,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cobrança Correio,19.95,927.1,Não
+3016-KSVCP,Homem,0,Sim,Não,29,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Não,Cobrança Correio,33.75,1009.25,Não
+4767-HZZHQ,Homem,0,Sim,Sim,30,Sim,Não,Fibra Óptica,Não,Sim,Sim,Não,Não,Não,Mês a mês,Não,Transferência Bancária,82.05,2570.2,Não
+2424-WVHPL,Homem,1,Não,Não,1,Sim,Não,Fibra Óptica,Não,Não,Não,Sim,Não,Não,Mês a mês,Não,Cobrança Eletrônica,74.7,74.7,Não
+7233-PAHHL,Homem,0,Sim,Sim,66,Sim,Sim,Sem Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Dois anos,Sim,Cobrança Correio,84,5714.25,Não
+6067-NGCEU,Mulher,0,Não,Não,65,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,111.05,7107,Não
+9848-JQJTX,Homem,0,Não,Não,72,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Dois anos,Sim,Transferência Bancária,100.9,7459.05,Não
+8637-XJIVR,Mulher,0,Não,Não,12,Sim,Sim,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,78.95,927.35,Sim
+9803-FTJCG,Homem,0,Sim,Sim,71,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Não,Sim,Não,Não,Um ano,Sim,Cartão de Crédito,66.85,4748.7,Não
+0278-YXOOG,Homem,0,Não,Não,5,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,21.05,113.85,Sim
+3212-KXOCR,Homem,0,Não,Não,52,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,21,1107.2,Não
+4598-XLKNJ,Mulher,1,Sim,Não,25,Sim,Não,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,98.5,2514.5,Sim
+6380-ARCEH,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.2,20.2,Não
+3679-XASPY,Mulher,0,Sim,Sim,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Eletrônica,19.45,19.45,Não
+7123-WQUHX,Homem,0,Não,Não,38,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Sim,Não,Um ano,Não,Transferência Bancária,95,3605.6,Não
+5386-THSLQ,Mulher,1,Sim,Não,66,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Sim,Não,Sim,Não,Um ano,Não,Transferência Bancária,45.55,3027.25,Não
+3192-NQECA,Homem,0,Sim,Não,68,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,110,7611.85,Sim
+6180-YBIQI,Homem,0,Não,Não,5,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,24.3,100.2,Não
+6728-DKUCO,Mulher,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Não,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,104.15,7303.05,Não
+9750-BOOHV,Mulher,0,Não,Não,32,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Um ano,Não,Cobrança Correio,30.15,927.65,Não
+8597-CWYHH,Homem,0,Não,Não,43,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Um ano,Não,Cobrança Correio,94.35,3921.3,Não
+2848-YXSMW,Homem,0,Sim,Sim,72,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,19.4,1363.25,Não
+0486-HECZI,Homem,0,Sim,Não,55,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,96.75,5238.9,Sim
+4549-ZDQYY,Mulher,0,Não,Não,52,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Um ano,Não,Cartão de Crédito,57.95,3042.25,Não
+5712-AHQNN,Mulher,0,Não,Não,43,Sim,Não,Fibra Óptica,Não,Sim,Sim,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,91.65,3954.1,Não
+4846-WHAFZ,Mulher,1,Sim,Não,37,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,76.5,2868.15,Sim
+5256-SKJGO,Mulher,0,Sim,Sim,64,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Dois anos,Sim,Cobrança Eletrônica,54.6,3423.5,Não
+3071-VBYPO,Homem,0,Sim,Sim,3,Sim,Não,Fibra Óptica,Sim,Sim,Não,Não,Sim,Não,Mês a mês,Não,Cobrança Eletrônica,89.85,248.4,Não
+9560-BBZXK,Mulher,0,Não,Não,36,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Dois anos,Não,Transferência Bancária,31.05,1126.35,Não
+5299-RULOA,Mulher,0,Sim,Sim,10,Sim,Sim,Fibra Óptica,Sim,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,100.25,1064.65,Sim
+8402-OOOHJ,Mulher,0,Não,Não,41,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,20.65,835.15,Não
+9445-ZUEQE,Homem,0,Sim,Sim,27,Sim,Sim,Fibra Óptica,Não,Sim,Não,Sim,Não,Não,Mês a mês,Sim,Cartão de Crédito,85.2,2151.6,Não
+1091-SOZGA,Mulher,0,Sim,Sim,56,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Um ano,Sim,Cartão de Crédito,99.8,5515.45,Não
+2928-HLDBA,Mulher,0,Não,Não,6,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.7,112.75,Não
+0404-SWRVG,Homem,0,Não,Não,3,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,74.4,229.55,Sim
+6497-TILVL,Mulher,0,Sim,Sim,7,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,50.7,350.35,Não
+7219-TLZHO,Mulher,0,Sim,Sim,4,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.85,62.9,Não
+4622-YNKIJ,Homem,0,Não,Não,33,Sim,Não,Fibra Óptica,Sim,Não,Não,Sim,Sim,Não,Dois anos,Sim,Cobrança Eletrônica,88.95,3027.65,Não
+4412-YLTKF,Mulher,1,Não,Não,27,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,78.05,2135.5,Sim
+6734-PSBAW,Homem,0,Sim,Não,72,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Transferência Bancária,23.55,1723.95,Não
+3930-ZGWVE,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.75,19.75,Não
+2639-UGMAZ,Homem,1,Não,Não,71,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Não,Não,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,56.45,3985.35,Não
+2876-GZYZC,Mulher,0,Não,Não,13,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,85.95,1215.65,Não
+6207-WIOLX,Mulher,0,Sim,Sim,25,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,58.6,1502.65,Sim
+8587-XYZSF,Homem,0,Não,Não,67,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Sim,Não,Não,Dois anos,Não,Transferência Bancária,50.55,3260.1,Não
+3091-FYHKI,Homem,0,Não,Não,1,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,35.45,35.45,Sim
+2372-HWUHI,Homem,0,Não,Não,2,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,44.35,81.25,Sim
+7799-LGRDP,Mulher,0,Não,Não,43,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cartão de Crédito,25.7,1188.2,Não
+7850-VWJUU,Mulher,0,Não,Não,23,Sim,Não,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,75,1778.5,Não
+3774-VBNXY,Mulher,0,Sim,Sim,64,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,20.2,1277.75,Não
+6217-KDYWC,Homem,0,Não,Sim,57,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cobrança Correio,19.6,1170.55,Não
+0390-DCFDQ,Mulher,1,Sim,Não,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,70.45,70.45,Sim
+3146-MSEGF,Mulher,1,Sim,Sim,72,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,88.05,6425.65,Não
+4080-OGPJL,Mulher,0,Não,Não,8,Sim,Sim,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Sim,Mês a mês,Não,Cobrança Eletrônica,71.15,563.65,Sim
+1095-WGNGG,Mulher,0,Sim,Não,61,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Dois anos,Sim,Transferência Bancária,101.05,5971.25,Não
+2636-SJDOU,Homem,0,Não,Não,64,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Não,Não,Não,Um ano,Sim,Cartão de Crédito,84.3,5289.05,Não
+1131-QQZEB,Homem,1,Sim,Não,71,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,23.95,1756.2,Não
+5716-EZXZN,Mulher,0,Sim,Sim,65,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Sim,Sim,Não,Dois anos,Sim,Cartão de Crédito,99.05,6416.7,Não
+6837-BJYDQ,Homem,0,Não,Não,3,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,19.6,61.35,Não
+2135-RXIHG,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,45.65,45.65,Sim
+6440-DKQGE,Homem,0,Não,Sim,30,Sim,Não,Sem Fibra Óptica,Não,Sim,Sim,Não,Sim,Não,Um ano,Não,Cartão de Crédito,64.5,1929.95,Não
+3466-BYAVD,Homem,0,Sim,Sim,15,Sim,Não,Sem Fibra Óptica,Não,Sim,Sim,Sim,Não,Sim,Mês a mês,Sim,Cobrança Correio,69.5,1071.4,Não
+3780-YVMFA,Mulher,0,Sim,Sim,8,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,68.55,564.35,Não
+3874-EQOEP,Homem,0,Não,Não,7,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Não,Cobrança Correio,95,655.5,Sim
+1679-JRFBR,Mulher,0,Sim,Sim,70,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Um ano,Sim,Cartão de Crédito,108.15,7930.55,Não
+9073-ZZIAY,Homem,0,Sim,Sim,62,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cobrança Eletrônica,86.1,5215.25,Não
+3077-RSNTJ,Mulher,0,Sim,Sim,6,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.7,113.5,Não
+6551-GNYDG,Mulher,0,Sim,Sim,14,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Transferência Bancária,80.9,1152.8,Não
+9167-APMXZ,Mulher,0,Não,Não,22,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Transferência Bancária,84.15,1821.95,Não
+2749-CTKAJ,Homem,0,Sim,Sim,22,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,20.15,419.9,Não
+6371-NZYEG,Homem,0,Sim,Sim,16,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Não,Sim,Não,Dois anos,Não,Cobrança Correio,64.25,1024,Não
+7554-NEWDD,Homem,0,Não,Não,10,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,25.7,251.6,Não
+8992-VONJD,Mulher,0,Não,Sim,13,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,56,764.55,Não
+0867-MKZVY,Mulher,0,Sim,Não,20,Sim,Sim,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,82.4,1592.35,Sim
+4482-EWFMI,Mulher,0,Não,Não,2,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,69.7,135.2,Não
+4648-YPBTM,Homem,0,Não,Não,53,Sim,Sim,Sem Fibra Óptica,Não,Sim,Sim,Sim,Não,Sim,Dois anos,Sim,Transferência Bancária,73.9,3958.25,Não
+2907-ILJBN,Mulher,0,Sim,Sim,11,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,20.6,233.9,Não
+6345-FZOQH,Homem,0,Sim,Não,69,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,19.9,1363.45,Não
+3376-BMGFE,Mulher,0,Não,Não,4,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,70.9,273,Sim
+5997-OPVFA,Homem,0,Sim,Não,72,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,89.05,6254.45,Não
+3445-HXXGF,Homem,1,Sim,Não,58,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Sim,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,45.3,2651.2,Sim
+1159-WFSGR,Mulher,0,Sim,Sim,16,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Eletrônica,20.4,321.4,Não
+7654-YWJUF,Homem,0,Sim,Não,43,Sim,Não,Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Um ano,Sim,Transferência Bancária,84.25,3539.25,Não
+1875-QIVME,Mulher,0,Sim,Não,2,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,104.4,242.8,Sim
+6727-IOTLZ,Homem,0,Sim,Não,14,Sim,Não,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cobrança Correio,81.95,1181.75,Não
+0691-JVSYA,Mulher,0,Sim,Não,53,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Um ano,Sim,Transferência Bancária,94.85,5000.2,Sim
+5918-VUKWP,Mulher,0,Não,Não,32,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Transferência Bancária,20.55,654.55,Não
+1744-JHKYS,Mulher,0,Sim,Não,34,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Eletrônica,24.7,780.2,Não
+2656-FMOKZ,Mulher,1,Não,Não,15,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,74.45,1145.7,Sim
+2070-FNEXE,Mulher,1,Não,Não,7,Sim,Não,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,76.45,503.6,Sim
+5947-SGKCL,Mulher,0,Sim,Sim,15,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Transferência Bancária,105.35,1559.25,Não
+3712-PKXZA,Homem,0,Sim,Não,61,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Sim,Cartão de Crédito,20.55,1252,Não
+6317-YPKDH,Mulher,0,Não,Não,1,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,29.95,29.95,Sim
+6582-OIVSP,Mulher,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,45.3,45.3,Não
+9367-WXLCH,Homem,0,Não,Não,8,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Não,Transferência Bancária,84.5,662.65,Sim
+5524-KHNJP,Homem,0,Sim,Sim,33,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Não,Sim,Sim,Um ano,Não,Cartão de Crédito,74.75,2453.3,Não
+1918-ZBFQJ,Mulher,0,Não,Não,13,Sim,Não,Fibra Óptica,Não,Sim,Sim,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,79.25,1111.65,Sim
+1024-GUALD,Mulher,0,Sim,Não,1,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,24.8,24.8,Sim
+4827-USJHP,Homem,0,Não,Não,20,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,51.8,1023.85,Não
+8167-GJLRN,Homem,0,Não,Não,3,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Sim,Não,Não,Mês a mês,Não,Cobrança Eletrônica,30.4,82.15,Não
+0956-SYCWG,Mulher,0,Não,Não,13,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Eletrônica,19.65,244.8,Não
+8017-UVSZU,Mulher,0,Sim,Não,40,Sim,Sim,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Cartão de Crédito,56.6,2379.1,Não
+7100-FQPRV,Homem,0,Sim,Sim,43,Sim,Sim,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Sim,Um ano,Sim,Cartão de Crédito,71.9,3173.35,Não
+2472-OVKUP,Homem,0,Sim,Não,6,Sim,Não,Fibra Óptica,Não,Sim,Sim,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,91,531,Sim
+2984-RGEYA,Mulher,0,Sim,Sim,69,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,19.75,1375.4,Não
+9680-NIAUV,Mulher,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Dois anos,Não,Cartão de Crédito,109.7,8129.3,Não
+2146-EGVDT,Homem,0,Sim,Sim,59,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,19.3,1192.7,Não
+2604-IJPDU,Mulher,0,Sim,Não,20,Sim,Não,Fibra Óptica,Sim,Sim,Não,Sim,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,96.55,1901.65,Não
+9178-JHUVJ,Homem,0,Sim,Sim,24,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Transferência Bancária,24.1,587.4,Não
+6168-YBYNP,Homem,0,Não,Não,59,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,111.35,6519.75,Não
+7255-SSFBC,Homem,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,112.25,8041.65,Não
+3645-DEYGF,Homem,0,Não,Sim,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.75,20.75,Não
+9323-HGFWY,Mulher,0,Sim,Não,27,Sim,Não,Fibra Óptica,Sim,Não,Não,Sim,Sim,Sim,Um ano,Sim,Cartão de Crédito,101.9,2681.15,Não
+8544-GOQSH,Mulher,0,Não,Não,14,Sim,Não,Fibra Óptica,Não,Sim,Não,Sim,Não,Não,Mês a mês,Sim,Cartão de Crédito,80.05,1112.3,Não
+3363-DTIVD,Homem,0,Sim,Sim,71,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Não,Sim,Sim,Dois anos,Não,Cobrança Eletrônica,105.55,7405.5,Não
+7018-WBJNK,Homem,0,Não,Sim,13,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cartão de Crédito,78.3,1033.95,Não
+9142-KZXOP,Homem,0,Não,Não,44,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cartão de Crédito,68.85,2958.95,Não
+7674-YTAFD,Mulher,0,Não,Não,33,Sim,Não,Fibra Óptica,Não,Sim,Não,Sim,Não,Não,Um ano,Sim,Transferência Bancária,79.95,2684.85,Não
+6348-SNFUS,Homem,0,Sim,Sim,72,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Não,Sim,Dois anos,Sim,Cartão de Crédito,55.45,4179.2,Não
+1285-OKIPP,Homem,0,Não,Não,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Não,Cobrança Eletrônica,79.9,79.9,Sim
+7825-ECJRF,Mulher,0,Não,Não,19,Sim,Não,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,106.6,1934.45,Sim
+1347-KTTTA,Homem,0,Sim,Não,64,Sim,Não,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Um ano,Sim,Cartão de Crédito,102.45,6654.1,Não
+7841-TZDMQ,Homem,0,Não,Não,2,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,46,84.5,Sim
+4195-NZGTA,Mulher,0,Não,Não,1,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,25.25,25.25,Não
+7157-SMCFK,Homem,0,Não,Sim,61,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,19.75,1124.2,Não
+4709-LKHYG,Mulher,0,Sim,Sim,29,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Eletrônica,20,540.05,Não
+2504-DSHIH,Homem,1,Sim,Não,23,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Não,Cobrança Eletrônica,86.8,1975.85,Não
+0699-NDKJM,Mulher,0,Sim,Não,57,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Transferência Bancária,58.75,3437.45,Não
+9286-BHDQG,Homem,0,Sim,Sim,72,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Não,Não,Dois anos,Não,Cartão de Crédito,45.25,3139.8,Não
+0230-WEQUW,Homem,0,Sim,Não,66,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Não,Dois anos,Sim,Transferência Bancária,56.6,3789.2,Não
+2040-LDIWQ,Homem,0,Sim,Sim,65,Sim,Sim,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,84.2,5324.5,Não
+6496-JDSSB,Mulher,0,Não,Não,8,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Transferência Bancária,80,624.6,Não
+9408-SSNVZ,Mulher,0,Não,Não,4,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,70.15,268.35,Sim
+4443-EMBNA,Mulher,0,Sim,Não,71,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,24.75,1836.9,Não
+6469-MRVET,Homem,0,Sim,Sim,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Sim,Cobrança Eletrônica,20.2,20.2,Não
+0742-MOABM,Homem,0,Sim,Não,4,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Sim,Não,Não,Mês a mês,Não,Cobrança Correio,50.05,179.35,Sim
+5961-VUSRV,Mulher,0,Não,Não,12,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Sim,Transferência Bancária,19.35,219.35,Não
+6778-JFCMK,Homem,0,Não,Não,24,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Não,Sim,Sim,Um ano,Sim,Cobrança Correio,50.6,1288.75,Não
+6341-JVQGF,Mulher,0,Sim,Sim,31,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Um ano,Sim,Cobrança Correio,81.15,2545.75,Não
+2232-DMLXU,Mulher,0,Sim,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Não,Cobrança Correio,55.2,55.2,Sim
+4811-JBUVU,Homem,0,Não,Não,30,Sim,Sim,Fibra Óptica,Não,Não,Não,Sim,Não,Sim,Mês a mês,Sim,Cartão de Crédito,89.9,2723.15,Não
+0945-TSONX,Mulher,0,Sim,Sim,47,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Não,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,85.3,4107.25,Não
+2651-ZCBXV,Homem,0,Não,Não,54,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,108,5760.65,Não
+3316-UWXUY,Homem,0,Não,Não,50,Sim,Não,Fibra Óptica,Sim,Sim,Não,Sim,Não,Sim,Mês a mês,Sim,Cartão de Crédito,93.5,4747.5,Não
+8937-RDTHP,Homem,0,Não,Não,1,Sim,Não,Fibra Óptica,Sim,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Correio,84.6,84.6,Sim
+7083-MIOPC,Mulher,0,Não,Não,72,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,20.25,1566.9,Não
+1984-GPTEH,Mulher,0,Não,Não,29,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Eletrônica,25.15,702,Não
+1251-KRREG,Homem,0,Não,Não,2,Sim,Sim,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,54.4,114.1,Sim
+0621-JFHOL,Mulher,0,Não,Não,10,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Sim,Não,Não,Dois anos,Sim,Cobrança Correio,29.6,299.05,Não
+9903-LYSAB,Homem,0,Sim,Não,18,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,73.15,1305.95,Não
+0094-OIFMO,Mulher,1,Não,Não,11,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,95,1120.3,Sim
+9227-UAQFT,Homem,0,Não,Não,16,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,19.75,284.35,Não
+7301-ABVAD,Mulher,0,Não,Não,72,Sim,Sim,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Transferência Bancária,86.6,6350.5,Não
+6614-FHDBO,Homem,0,Não,Não,72,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Transferência Bancária,109.2,7878.3,Não
+7576-ASEJU,Mulher,0,Sim,Sim,41,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Sim,Sim,Sim,Um ano,Sim,Cartão de Crédito,74.7,3187.65,Não
+9058-HRZSV,Mulher,1,Sim,Não,65,Sim,Não,Fibra Óptica,Sim,Sim,Sim,Não,Não,Sim,Mês a mês,Não,Cobrança Eletrônica,94.4,6126.15,Não
+4522-AKYLR,Mulher,1,Não,Não,13,Sim,Não,Sem Fibra Óptica,Não,Sim,Sim,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,54.8,731.3,Não
+0221-WMXNQ,Homem,1,Não,Não,4,Sim,Não,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,75.35,273.4,Não
+0303-UNCIP,Homem,0,Não,Não,41,Sim,Sim,Sem Fibra Óptica,Não,Não,Sim,Não,Não,Sim,Um ano,Não,Cobrança Correio,65,2531.8,Não
+9947-OTFQU,Homem,1,Não,Não,15,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,74.4,1074.3,Sim
+0322-YINQP,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,48.55,48.55,Sim
+0959-WHOKV,Homem,0,Não,Não,42,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Não,Sim,Um ano,Sim,Cobrança Eletrônica,99,4298.45,Não
+4075-JFPGR,Mulher,0,Sim,Não,51,Sim,Não,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Não,Um ano,Sim,Cobrança Eletrônica,93.5,4619.55,Não
+4629-NRXKX,Mulher,0,Sim,Sim,2,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,70.4,147.15,Sim
+9514-JDSKI,Homem,1,Sim,Não,1,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Mês a mês,Não,Cobrança Eletrônica,40.2,40.2,Sim
+3282-ZISZV,Homem,0,Não,Sim,32,Sim,Sim,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Um ano,Não,Cartão de Crédito,83.7,2633.3,Não
+3675-YDUPJ,Homem,0,Não,Não,10,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,19.85,193.05,Não
+4111-BNXIF,Mulher,0,Sim,Sim,67,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cobrança Eletrônica,59.55,4103.9,Não
+7017-VFHAY,Mulher,0,Sim,Sim,61,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cartão de Crédito,115.1,7008.15,Não
+6655-LHBYW,Homem,0,Não,Não,50,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Um ano,Não,Cartão de Crédito,114.35,5791.1,Não
+4959-JOSRX,Mulher,0,Sim,Não,2,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,44.6,80.55,Sim
+5046-NUHWD,Mulher,1,Sim,Não,29,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Sim,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,45,1228.65,Não
+7273-TEFQD,Homem,1,Não,Não,3,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Sim,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,41.15,132.2,Sim
+3606-TWKGI,Homem,1,Não,Não,13,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,106.9,1364.3,Sim
+7529-ZDFXI,Homem,1,Sim,Não,57,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,89.85,4925.35,Não
+7605-BDWDC,Mulher,0,Não,Não,31,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Não,Sim,Não,Sim,Dois anos,Sim,Transferência Bancária,49.85,1520.1,Não
+1950-KSVVJ,Mulher,0,Sim,Não,45,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Um ano,Não,Cobrança Correio,113.3,5032.25,Não
+0123-CRBRT,Mulher,0,Sim,Sim,61,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cobrança Correio,88.1,5526.75,Não
+6292-TOSSS,Homem,0,Não,Não,50,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,24.9,1195.25,Não
+3197-ARFOY,Mulher,1,Não,Não,19,Sim,Não,Fibra Óptica,Sim,Sim,Não,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Correio,105,2007.25,Não
+6323-AYBRX,Homem,0,Não,Não,59,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,19.35,1099.6,Sim
+7014-ZZXAW,Mulher,0,Sim,Não,71,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cartão de Crédito,24.25,1732.95,Não
+4385-GZQXV,Mulher,1,Não,Não,16,Sim,Não,Fibra Óptica,Não,Não,Não,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,94.45,1511.2,Sim
+7633-MVPUY,Homem,0,Sim,Não,57,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Sim,Não,Não,Dois anos,Sim,Cobrança Eletrônica,59.75,3450.15,Não
+6366-ZGQGL,Homem,0,Não,Não,1,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,24.8,24.8,Sim
+4716-HHKQH,Homem,1,Sim,Não,20,Sim,Sim,Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Mês a mês,Não,Cobrança Eletrônica,107.05,2172.05,Não
+5940-AHUHD,Homem,0,Não,Não,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,70.6,70.6,Sim
+6432-TWQLB,Homem,0,Sim,Não,5,Sim,Sim,Fibra Óptica,Não,Sim,Não,Sim,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,85.4,401.1,Sim
+4484-GLZOU,Mulher,0,Sim,Não,52,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,105.05,5624.85,Sim
+3179-GBRWV,Homem,1,Sim,Não,21,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Não,Não,Sim,Mês a mês,Sim,Transferência Bancária,64.95,1339.8,Não
+8645-KWHJO,Homem,0,Não,Não,14,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,55,771.95,Não
+4130-MZLCC,Mulher,0,Não,Não,5,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,50.55,244.75,Não
+0314-TKOSI,Mulher,0,Não,Não,6,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,55.15,322.9,Não
+8229-MYEJZ,Mulher,0,Não,Não,10,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,51.2,498.25,Não
+2080-SRCDE,Mulher,0,Não,Sim,1,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,25.4,25.4,Não
+9577-WJVCQ,Mulher,0,Não,Não,68,Sim,Sim,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,54.45,3687.75,Não
+9512-UIBFX,Homem,0,Sim,Sim,18,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Não,Cobrança Correio,95.15,1779.95,Sim
+6202-DYYFX,Mulher,0,Não,Não,22,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Um ano,Sim,Cartão de Crédito,76,1783.6,Não
+3808-HFKDE,Mulher,0,Não,Não,20,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,44.35,927.15,Não
+5583-SXDAG,Homem,0,Sim,Não,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,70,70,Sim
+3488-PGMQJ,Homem,1,Não,Não,8,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,74.5,606.55,Sim
+3580-REOAC,Homem,0,Não,Não,10,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,44.85,435.4,Sim
+7534-BFESC,Homem,1,Não,Não,24,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,76.1,1712.7,Sim
+3727-OWVYD,Homem,0,Não,Não,35,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Não,Não,Não,Um ano,Não,Cobrança Correio,61.2,2021.2,Não
+2294-SALNE,Homem,0,Sim,Sim,23,Sim,Não,Fibra Óptica,Não,Sim,Sim,Sim,Não,Não,Um ano,Não,Cobrança Correio,86.8,1940.8,Não
+4847-TAJYI,Mulher,1,Não,Não,6,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,89.35,567.8,Não
+1563-IWQEX,Mulher,0,Não,Não,12,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.7,220.35,Não
+8203-XJZRC,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.25,20.25,Não
+6556-DBKZF,Mulher,0,Sim,Sim,71,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Dois anos,Não,Cobrança Eletrônica,76.05,5436.45,Não
+6851-WEFYX,Homem,1,Sim,Não,35,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,100.8,3437.5,Não
+2985-JUUBZ,Homem,0,Sim,Sim,40,Sim,Sim,Sem Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,74.55,3015.75,Não
+6390-DSAZX,Mulher,0,Não,Sim,1,Sim,Não,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,73.6,73.6,Sim
+0895-LMRSF,Homem,0,Não,Não,23,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Um ano,Sim,Transferência Bancária,64.9,1509.8,Não
+8098-LLAZX,Mulher,1,Não,Não,4,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,95.45,396.1,Sim
+8266-VBFQL,Homem,0,Não,Não,4,Sim,Não,Fibra Óptica,Não,Não,Sim,Sim,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,90.4,356.65,Não
+8181-YHCMF,Mulher,0,Sim,Sim,68,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cartão de Crédito,60.3,4109,Não
+2240-HSJQD,Homem,0,Não,Sim,38,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,81.85,3141.7,Não
+1248-DYXUB,Homem,0,Sim,Sim,52,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,24.8,1229.1,Não
+0265-EDXBD,Homem,1,Sim,Não,32,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,74.9,2303.35,Sim
+4115-BNPJY,Homem,0,Sim,Sim,29,Sim,Não,Sem Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Dois anos,Não,Cobrança Correio,75.55,2054.4,Não
+3167-SNQPL,Homem,1,Sim,Sim,38,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Não,Cobrança Eletrônica,101.15,3741.85,Não
+4091-TVOCN,Homem,0,Não,Sim,48,Sim,Sim,Sem Fibra Óptica,Sim,Não,Sim,Não,Sim,Sim,Um ano,Sim,Cartão de Crédito,78.75,3682.45,Não
+1098-TDVUQ,Mulher,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Transferência Bancária,19.25,19.25,Não
+7277-OZCGZ,Mulher,0,Não,Não,22,Sim,Não,Fibra Óptica,Sim,Não,Não,Sim,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,89.05,1886.25,Não
+1557-EMYVT,Mulher,0,Não,Não,43,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cartão de Crédito,115.05,4895.1,Não
+2799-ARNLO,Mulher,1,Sim,Não,5,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,69.35,341.6,Não
+7563-BIUPC,Homem,0,Não,Não,5,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,80.6,415.55,Sim
+5027-YOCXN,Homem,0,Sim,Sim,51,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Sim,Sim,Sim,Um ano,Não,Cartão de Crédito,110.05,5686.4,Não
+3973-SKMLN,Homem,0,Não,Não,71,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cartão de Crédito,19.9,1355.1,Não
+2321-OMBXY,Mulher,0,Sim,Sim,38,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Sim,Sim,Sim,Um ano,Não,Cartão de Crédito,80.3,3058.65,Sim
+2840-XANRC,Homem,1,Sim,Não,24,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,93.15,2231.05,Sim
+6745-JEFZB,Homem,0,Sim,Não,35,Sim,Sim,Fibra Óptica,Não,Não,Não,Sim,Sim,Não,Mês a mês,Sim,Cartão de Crédito,91.5,3236.35,Não
+5020-ZSTTY,Mulher,1,Não,Não,54,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Não,Sim,Sim,Sim,Um ano,Não,Transferência Bancária,82.45,4350.1,Sim
+9880-TDQAC,Mulher,0,Sim,Sim,72,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cobrança Eletrônica,60,4264,Não
+8705-WZCYL,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,44.8,44.8,Não
+7102-JJVTX,Mulher,0,Sim,Sim,9,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Um ano,Não,Cobrança Correio,48.6,422.3,Não
+8626-PTQGE,Homem,0,Não,Não,69,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Não,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,60.05,4176.7,Não
+4983-CLMLV,Mulher,0,Sim,Não,52,Sim,Sim,Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,102.7,5138.1,Não
+5701-YVSVF,Mulher,1,Sim,Não,11,Sim,Não,Fibra Óptica,Não,Não,Não,Sim,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,82.9,880.05,Não
+5804-LEPIM,Mulher,1,Não,Não,2,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,70.35,139.05,Sim
+5697-GOMBF,Mulher,1,Sim,Sim,28,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,35.9,973.65,Não
+2739-CACDQ,Mulher,1,Não,Não,17,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,82.65,1470.05,Não
+9385-EHGDO,Mulher,0,Sim,Sim,35,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cobrança Correio,19.85,739.35,Não
+9498-FIMXL,Mulher,0,Não,Não,8,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Sim,Cobrança Correio,19.2,161.95,Não
+2379-GYFLQ,Homem,0,Não,Não,46,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Não,Um ano,Sim,Cartão de Crédito,94.9,4422.95,Não
+0122-OAHPZ,Mulher,0,Não,Não,7,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,73.85,511.25,Sim
+2868-SNELZ,Mulher,0,Não,Não,2,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Não,Cobrança Correio,80.6,155.8,Sim
+4322-RCYMT,Homem,0,Sim,Sim,68,Sim,Sim,Sem Fibra Óptica,Não,Sim,Sim,Sim,Não,Sim,Um ano,Sim,Transferência Bancária,75.8,5293.95,Sim
+6680-NENYN,Mulher,0,Não,Não,43,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Dois anos,Sim,Cobrança Eletrônica,104.6,4759.85,Sim
+2088-IEBAU,Mulher,0,Não,Não,68,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cobrança Eletrônica,88.15,6148.45,Não
+7982-VCELR,Mulher,0,Não,Não,36,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,94.8,3565.65,Não
+1343-EHPYB,Homem,0,Sim,Não,63,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,103.4,6603,Sim
+6035-BXTTY,Mulher,1,Não,Não,32,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Sim,Não,Não,Mês a mês,Não,Transferência Bancária,54.65,1830.1,Não
+6885-PKOAM,Mulher,0,Sim,Não,71,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cartão de Crédito,85.75,6223.8,Não
+7520-HQWJU,Mulher,0,Sim,Sim,66,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,67.45,4508.65,Não
+9639-BUJXT,Homem,0,Não,Não,63,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,20.5,1328.15,Não
+5924-SNGKP,Mulher,0,Não,Sim,41,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Sim,Cartão de Crédito,20.25,865,Não
+0021-IKXGC,Mulher,1,Não,Não,1,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,72.1,72.1,Não
+2034-GDRCN,Mulher,0,Não,Não,2,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,90.4,168.2,Sim
+8966-SNIZF,Mulher,0,Sim,Não,70,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,19.45,1303.5,Não
+6243-OZGFH,Mulher,0,Não,Não,23,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,44.95,996.85,Não
+4654-DLAMQ,Mulher,1,Sim,Não,64,Sim,Não,Fibra Óptica,Sim,Sim,Sim,Não,Não,Sim,Um ano,Não,Transferência Bancária,97,6430.9,Não
+0513-RBGPE,Homem,0,Sim,Sim,37,Sim,Sim,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Dois anos,Sim,Cartão de Crédito,62.8,2278.75,Não
+5160-UXJED,Homem,0,Não,Sim,17,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Um ano,Não,Cobrança Correio,44.6,681.4,Não
+4115-NZRKS,Mulher,1,Não,Não,7,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,89.15,574.35,Não
+0219-YTZUE,Homem,0,Sim,Sim,4,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,84.8,371.9,Sim
+0623-IIHUG,Mulher,1,Não,Não,21,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,41.9,840.1,Sim
+4572-DVCGN,Mulher,0,Não,Não,10,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Transferência Bancária,80.25,846,Sim
+3351-NGXYI,Mulher,1,Não,Não,16,Sim,Sim,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,54.1,889,Não
+8984-EYLLL,Homem,0,Sim,Não,64,Sim,Sim,Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Dois anos,Sim,Cobrança Eletrônica,105.25,6823.4,Não
+9057-MSWCO,Homem,1,Sim,Não,27,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Não,Cartão de Crédito,30.75,805.1,Sim
+9833-TGFHX,Homem,0,Sim,Sim,42,Sim,Sim,Fibra Óptica,Sim,Não,Não,Não,Sim,Sim,Um ano,Não,Cobrança Eletrônica,97.1,4016.75,Não
+9294-TDIPC,Homem,0,Não,Sim,5,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.2,83.75,Não
+5229-DTFYB,Mulher,0,Não,Não,41,Sim,Não,Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,98.8,3959.15,Não
+0104-PPXDV,Homem,0,Sim,Não,58,Sim,Não,Sem Fibra Óptica,Não,Não,Sim,Não,Não,Não,Um ano,Não,Cartão de Crédito,50.3,2878.55,Não
+5176-LMJXE,Mulher,0,Não,Não,47,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cobrança Correio,20.55,945.7,Não
+3583-KRKMD,Homem,0,Não,Não,18,Sim,Não,Fibra Óptica,Não,Não,Não,Sim,Não,Não,Mês a mês,Sim,Transferência Bancária,75.9,1373.05,Não
+1010-DIAUQ,Homem,0,Não,Não,5,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Não,Transferência Bancária,96.5,492.55,Sim
+9069-LGEUL,Homem,0,Sim,Não,23,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Sim,Mês a mês,Sim,Transferência Bancária,59.95,1406,Não
+7302-ZHMHP,Mulher,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.15,19.15,Não
+9571-EDEBV,Homem,0,Sim,Não,71,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Um ano,Sim,Cartão de Crédito,98.65,6962.85,Não
+3520-FJGCV,Homem,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,112.6,8126.65,Não
+6563-VRERX,Homem,0,Sim,Sim,33,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,20.6,690.25,Não
+0259-GBZSH,Homem,0,Não,Não,2,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,85.65,181.5,Sim
+6122-EFVKN,Homem,0,Não,Sim,24,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Não,Dois anos,Não,Cobrança Correio,35.75,830.8,Não
+2805-EDJPQ,Mulher,0,Sim,Sim,56,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Não,Sim,Um ano,Sim,Cartão de Crédito,99.75,5608.4,Não
+6862-CQUMB,Homem,0,Não,Não,37,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,96.1,3646.8,Não
+7156-MXBJE,Mulher,0,Não,Não,43,Sim,Sim,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Um ano,Não,Cartão de Crédito,85.1,3662.25,Não
+6158-HDPXZ,Homem,0,Não,Não,1,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,25.35,25.35,Não
+9601-BRXPO,Mulher,0,Sim,Não,25,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Mês a mês,Sim,Transferência Bancária,104.95,2566.5,Sim
+2863-IMQDR,Mulher,0,Não,Não,61,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cobrança Eletrônica,89.65,5308.7,Não
+5686-CMAWK,Homem,0,Não,Não,17,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Não,Não,Um ano,Não,Cobrança Eletrônica,86.75,1410.25,Não
+5651-CRHKQ,Mulher,0,Sim,Não,41,Sim,Não,Fibra Óptica,Não,Sim,Sim,Sim,Não,Não,Um ano,Sim,Transferência Bancária,86.2,3339.05,Não
+6905-NIQIN,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,50.65,50.65,Sim
+8204-YJCLA,Homem,1,Sim,Sim,72,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,64.8,4732.35,Não
+5167-ZFFMM,Homem,0,Não,Não,1,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Sim,Mês a mês,Sim,Cartão de Crédito,90.85,90.85,Sim
+6583-SZVGP,Homem,0,Não,Não,48,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Dois anos,Sim,Transferência Bancária,108.1,5067.45,Não
+4895-TMWIR,Homem,1,Sim,Não,11,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.95,214.75,Sim
+0533-BNWKF,Mulher,1,Sim,Não,55,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,85.45,4874.7,Sim
+1708-PBBOA,Mulher,0,Não,Não,42,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Não,Sim,Um ano,Sim,Cobrança Eletrônica,54.75,2348.45,Não
+8782-LKFPK,Homem,0,Não,Não,44,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Não,Sim,Mês a mês,Sim,Cobrança Correio,90.4,4063,Não
+5522-JBWMO,Homem,0,Não,Sim,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,44,44,Não
+3597-MVHJT,Mulher,0,Não,Não,27,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Transferência Bancária,95.6,2595.25,Não
+9774-NRNAU,Homem,1,Sim,Não,27,Sim,Sim,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Mês a mês,Sim,Transferência Bancária,84.8,2309.55,Não
+0224-RLWWD,Mulher,1,Não,Não,2,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,44.3,89.3,Não
+9967-ATRFS,Mulher,0,Não,Não,19,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.9,367.55,Não
+3951-NJCVI,Mulher,1,Sim,Não,42,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,95.05,3944.5,Não
+2977-CEBSX,Mulher,0,Não,Não,66,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,90.05,5965.95,Não
+0177-PXBAT,Homem,1,Sim,Não,33,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Mês a mês,Sim,Transferência Bancária,109.9,3694.7,Não
+6599-CEBNN,Mulher,0,Não,Não,34,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,73.95,2524.45,Sim
+2519-ERQOJ,Homem,1,Não,Não,33,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,54.6,1803.7,Não
+5876-QMYLD,Mulher,0,Sim,Sim,23,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,20.05,415.1,Não
+2277-AXSDC,Mulher,0,Não,Não,32,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Transferência Bancária,19.75,624.15,Não
+9442-JTWDL,Mulher,0,Não,Não,11,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cartão de Crédito,20.05,237.7,Não
+0979-PHULV,Homem,0,Sim,Sim,69,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,99.45,7007.6,Sim
+3067-SVMTC,Mulher,0,Sim,Não,68,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Não,Um ano,Não,Transferência Bancária,55.9,3848.8,Não
+5495-GPSRW,Homem,0,Não,Não,20,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cobrança Correio,19.7,419.4,Não
+7606-BPHHN,Homem,0,Não,Não,72,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cartão de Crédito,19.8,1468.75,Não
+4742-DRORA,Homem,0,Sim,Sim,60,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Não,Sim,Não,Um ano,Sim,Transferência Bancária,95.4,5812,Não
+0111-KLBQG,Homem,1,Sim,Sim,32,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Correio,93.95,2861.45,Não
+4800-VHZKI,Mulher,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,19.9,19.9,Sim
+7989-CHGTL,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,19.6,19.6,Sim
+0334-GDDSO,Homem,1,Não,Não,3,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,81.35,233.7,Sim
+4163-NCJAK,Mulher,0,Sim,Não,46,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Sim,Transferência Bancária,24.45,1066.15,Não
+5233-AOZUF,Mulher,0,Sim,Não,29,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,74.95,2149.05,Não
+5973-EJGDP,Homem,0,Não,Não,51,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,87.35,4473,Não
+1996-DBMUS,Mulher,1,Sim,Não,48,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,70.65,3545.05,Não
+7916-VCCPB,Mulher,0,Sim,Sim,16,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,73.25,1195.75,Não
+4686-GEFRM,Homem,0,Sim,Não,70,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Não,Sim,Dois anos,Sim,Transferência Bancária,98.7,6858.9,Não
+5249-QYHEX,Mulher,0,Sim,Sim,40,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cobrança Correio,24.8,1024.7,Não
+0578-SKVMF,Mulher,0,Sim,Sim,22,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Não,Sim,Mês a mês,Não,Cobrança Eletrônica,83.3,1845.9,Sim
+5564-NEMQO,Mulher,1,Não,Não,1,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,75.3,75.3,Sim
+2233-FAGXV,Mulher,0,Sim,Sim,5,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,24.3,132.25,Não
+5605-IYGFG,Mulher,0,Não,Não,7,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,69.85,515.45,Não
+7663-ZTEGJ,Homem,0,Não,Sim,29,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Não,Sim,Um ano,Não,Cartão de Crédito,100.55,2830.45,Não
+3935-TBRZZ,Homem,0,Sim,Sim,44,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,25.7,1110.5,Não
+8111-BKVDS,Mulher,0,Não,Não,10,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Não,Não,Não,Mês a mês,Não,Transferência Bancária,40.7,449.3,Não
+2055-SIFSS,Mulher,1,Sim,Não,55,Sim,Sim,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,51.65,2838.55,Não
+2806-MLNTI,Homem,1,Sim,Não,52,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Um ano,Sim,Transferência Bancária,105.1,5376.4,Não
+8734-DKSTZ,Mulher,0,Sim,Sim,10,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Não,Cobrança Eletrônica,85.95,858.6,Não
+4360-PNRQB,Homem,0,Não,Não,18,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,75.6,1395.05,Não
+6152-ONASV,Mulher,0,Sim,Não,68,Sim,Sim,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Não,Um ano,Não,Transferência Bancária,58.25,3975.7,Não
+9063-ZGTUY,Mulher,0,Sim,Sim,61,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,19.4,1182.55,Sim
+7781-HVGMK,Mulher,0,Sim,Sim,72,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,65.2,4784.45,Não
+2181-UAESM,Homem,0,Não,Não,2,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,53.45,119.5,Não
+2957-LOLHO,Homem,0,Não,Não,12,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,45.4,518.9,Sim
+6048-NJXHX,Homem,0,Sim,Não,41,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cobrança Eletrônica,19.75,899.45,Não
+2320-SLKMB,Mulher,0,Não,Não,26,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Sim,Sim,Sim,Não,Mês a mês,Sim,Cartão de Crédito,44.45,1183.8,Não
+4980-URKXC,Homem,0,Sim,Não,36,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Transferência Bancária,20.85,720.05,Não
+4376-KFVRS,Homem,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,114.05,8468.2,Não
+5886-VLQVU,Homem,0,Sim,Não,35,Sim,Sim,Fibra Óptica,Não,Não,Não,Sim,Não,Sim,Mês a mês,Sim,Transferência Bancária,89.85,3161.2,Não
+3577-AMVUX,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Sim,Sim,Não,Não,Mês a mês,Não,Cobrança Correio,55.05,55.05,Não
+0771-WLCLA,Mulher,0,Sim,Sim,16,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,112.95,1882.55,Não
+5628-RKIFK,Mulher,1,Não,Não,49,Sim,Sim,Fibra Óptica,Sim,Não,Não,Não,Sim,Sim,Mês a mês,Não,Cartão de Crédito,101.55,5070.4,Não
+0206-TBWLC,Mulher,0,Sim,Não,54,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Um ano,Sim,Cobrança Correio,114.65,6049.5,Não
+2937-FTHUR,Mulher,0,Não,Sim,18,Sim,Sim,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Sim,Mês a mês,Não,Cobrança Eletrônica,64.8,1166.7,Não
+1910-FMXJM,Mulher,0,Sim,Não,36,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Não,Cobrança Eletrônica,80.4,2937.65,Não
+7752-XUSCI,Mulher,0,Não,Não,60,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,105.9,6396.45,Sim
+4110-PFEUZ,Mulher,0,Não,Não,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,69.55,69.55,Sim
+0732-OCQOC,Mulher,0,Sim,Sim,52,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Transferência Bancária,25.05,1270.25,Não
+5168-MSWXT,Homem,0,Sim,Sim,8,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,94.75,759.55,Não
+1090-ESELR,Homem,0,Sim,Sim,72,Sim,Não,Fibra Óptica,Sim,Sim,Não,Sim,Sim,Sim,Dois anos,Não,Transferência Bancária,105.5,7611.55,Não
+8592-PLTMQ,Mulher,0,Não,Não,64,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,24.7,1642.75,Não
+5760-WRAHC,Mulher,1,Não,Não,22,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Sim,Mês a mês,Sim,Cobrança Correio,69.75,1545.4,Não
+8847-GEOOQ,Homem,0,Sim,Não,60,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Mês a mês,Sim,Transferência Bancária,60.2,3582.4,Não
+0256-LTHVJ,Mulher,0,Sim,Sim,28,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,81.05,2227.1,Sim
+4785-FCIFB,Mulher,0,Sim,Não,61,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,24.4,1417.9,Não
+8313-NDOIA,Mulher,0,Não,Não,24,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,104.15,2494.65,Não
+5149-CUZUJ,Homem,0,Sim,Sim,28,Sim,Não,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Não,Um ano,Não,Transferência Bancária,92.9,2768.35,Não
+0942-KOWSM,Mulher,0,Sim,Sim,30,Sim,Não,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Transferência Bancária,80.8,2369.3,Não
+4237-CLSMM,Homem,0,Sim,Não,2,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20,38,Não
+1452-VOQCH,Homem,0,Não,Não,1,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,75.1,75.1,Não
+4719-UMSIY,Homem,0,Não,Sim,6,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.65,100.9,Não
+6614-VBEGU,Mulher,0,Sim,Não,24,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Transferência Bancária,69.45,1614.05,Não
+0880-TKATG,Homem,0,Sim,Sim,4,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Não,Cobrança Eletrônica,101.15,385.9,Sim
+3811-VBYBZ,Homem,0,Não,Não,7,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,99.8,673.25,Sim
+1480-BKXGA,Homem,1,Sim,Não,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,116.05,8404.9,Não
+2996-XAUVF,Homem,0,Não,Não,70,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Sim,Não,Sim,Dois anos,Sim,Cobrança Correio,40.05,2799.75,Não
+9076-AXYIK,Homem,1,Sim,Não,64,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Dois anos,Não,Cobrança Eletrônica,102.1,6538.45,Não
+5968-XQIVE,Homem,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Um ano,Sim,Cobrança Eletrônica,89.7,6588.95,Não
+8896-RAZCR,Mulher,0,Não,Sim,44,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,19.9,868.1,Não
+4640-UHDOS,Mulher,0,Sim,Sim,13,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Não,Cobrança Eletrônica,55.95,734.35,Sim
+4933-IKULF,Mulher,1,Não,Não,17,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,20.65,330.6,Não
+3583-EKAPL,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,55,55,Sim
+1304-BCCFO,Homem,0,Sim,Não,9,Sim,Não,Sem Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Correio,70.05,564.4,Não
+4104-PVRPS,Homem,0,Sim,Não,24,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Não,Mês a mês,Não,Cobrança Correio,53.6,1315.35,Não
+9399-APLBT,Mulher,0,Sim,Sim,1,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,74.7,74.7,Sim
+2359-KMGLI,Homem,0,Não,Não,24,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,80.25,1861.5,Sim
+3780-DDGSE,Homem,1,Sim,Sim,35,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,76.05,2747.2,Não
+4431-EDMIQ,Mulher,0,Sim,Sim,7,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,75.7,554.05,Não
+0306-JAELE,Homem,0,Não,Não,5,Sim,Não,Fibra Óptica,Não,Não,Não,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,96.1,453.4,Sim
+6227-HWPWX,Mulher,0,Não,Sim,15,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,69,994.8,Sim
+0486-LGCCH,Homem,0,Sim,Sim,11,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,19.65,225.75,Não
+0447-BEMNG,Mulher,0,Sim,Não,48,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Sim,Não,Não,Sim,Mês a mês,Sim,Transferência Bancária,45.3,2145,Sim
+4612-SSVHJ,Mulher,1,Não,Não,20,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,81.45,1671.6,Não
+5168-MQQCA,Mulher,0,Sim,Não,72,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Um ano,Sim,Transferência Bancária,108.5,8003.8,Não
+5949-XIKAE,Mulher,0,Sim,Sim,8,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,83.55,680.05,Sim
+7971-HLVXI,Homem,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Dois anos,Sim,Cartão de Crédito,84.5,6130.85,Não
+9094-AZPHK,Mulher,0,Não,Não,15,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,100.15,1415,Não
+3649-JPUGY,Homem,0,Não,Não,72,Sim,Sim,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,88.6,6201.95,Não
+8372-JUXUI,Homem,0,Não,Sim,1,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,74.35,74.35,Sim
+3552-CTCYF,Homem,0,Sim,Sim,63,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Dois anos,Sim,Transferência Bancária,104.8,6597.25,Não
+6778-YSNIH,Mulher,0,Não,Não,2,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,59,114.15,Não
+0388-EOPEX,Mulher,0,Sim,Não,2,Sim,Não,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,74.4,139.4,Sim
+5756-OZRIO,Homem,1,Sim,Não,61,Sim,Sim,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Sim,Um ano,Não,Transferência Bancária,64.05,3902.6,Não
+6579-JPICP,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.4,20.4,Não
+8205-OTCHB,Homem,0,Não,Não,22,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Sim,Não,Não,Sim,Um ano,Sim,Transferência Bancária,43.75,903.6,Sim
+4134-BSXLX,Homem,0,Sim,Não,28,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Sim,Não,Não,Mês a mês,Não,Cobrança Correio,60.9,1785.65,Não
+0505-SPOOW,Mulher,0,Sim,Não,70,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,19.8,1397.65,Não
+6235-VDHOM,Mulher,1,Não,Não,5,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,28.45,131.05,Sim
+7783-YKGDV,Mulher,0,Não,Não,12,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Não,Sim,Mês a mês,Sim,Transferência Bancária,99.7,1238.45,Sim
+4374-YMUSQ,Homem,0,Não,Não,34,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Um ano,Não,Cartão de Crédito,116.25,3899.05,Não
+4513-CXYIX,Mulher,1,Sim,Não,71,Sim,Sim,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Dois anos,Sim,Cartão de Crédito,80.7,5676,Não
+3957-HHLMR,Mulher,0,Sim,Sim,70,Sim,Sim,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Sim,Um ano,Não,Transferência Bancária,65.2,4543.15,Não
+7803-XOCCZ,Mulher,0,Sim,Sim,52,Sim,Não,Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Mês a mês,Sim,Transferência Bancária,84.05,4326.8,Não
+5736-YEJAX,Homem,0,Não,Sim,69,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Não,Dois anos,Sim,Cartão de Crédito,79.45,5502.55,Não
+5609-CEBID,Mulher,1,Não,Não,20,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,94.1,1782.4,Sim
+8981-FJGLA,Homem,0,Não,Sim,11,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,78,851.8,Não
+7218-HKQFK,Homem,0,Sim,Não,2,Sim,Não,Fibra Óptica,Não,Não,Não,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,94.2,167.5,Sim
+4636-QRJKY,Mulher,0,Sim,Sim,6,Sim,Sim,Fibra Óptica,Não,Não,Não,Sim,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,80.5,502.85,Sim
+1135-LMECX,Mulher,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.85,19.85,Não
+4332-MUOEZ,Homem,1,Sim,Sim,20,Sim,Não,Fibra Óptica,Sim,Não,Sim,Sim,Não,Sim,Um ano,Não,Cartão de Crédito,94.3,1818.3,Não
+8535-SFUTN,Homem,0,Não,Não,61,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,106.45,6300.15,Não
+5956-VKDTT,Mulher,1,Sim,Não,5,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,74.35,334.8,Sim
+8677-HDZEE,Mulher,0,Não,Não,56,Sim,Sim,Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Mês a mês,Sim,Transferência Bancária,105.45,5916.95,Não
+2475-MROZF,Homem,0,Não,Não,30,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Não,Não,Mês a mês,Sim,Cartão de Crédito,95,2852.4,Não
+9412-GHEEC,Homem,0,Não,Não,40,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Mês a mês,Não,Transferência Bancária,104.8,4131.95,Sim
+3482-ABPKK,Mulher,0,Não,Não,28,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Não,Um ano,Não,Cobrança Correio,54.3,1546.3,Não
+6705-LXORM,Mulher,1,Sim,Não,5,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,70.05,302.6,Não
+0257-ZESQC,Mulher,1,Sim,Não,27,Sim,Não,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,75.2,1929.35,Sim
+7531-GQHME,Homem,0,Não,Não,12,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cartão de Crédito,20.05,265.45,Não
+5174-ITUMV,Homem,0,Sim,Sim,67,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,105.4,6989.45,Não
+4109-CYRBD,Homem,1,Sim,Não,29,Sim,Sim,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,51.6,1442,Não
+0913-XWSCN,Homem,0,Sim,Sim,55,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Não,Transferência Bancária,85.5,4713.4,Não
+6825-UYPFK,Mulher,0,Não,Não,23,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,75.6,1758.6,Sim
+8397-MVTAZ,Homem,0,Sim,Não,34,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,100.05,3480,Sim
+0750-EBAIU,Homem,0,Não,Não,52,Sim,Não,Fibra Óptica,Sim,Não,Sim,Não,Sim,Não,Um ano,Não,Cobrança Eletrônica,91.25,4738.3,Não
+8606-CIQUL,Homem,1,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,115.75,8399.15,Não
+3571-DPYUH,Homem,0,Sim,Sim,58,Sim,Sim,Fibra Óptica,Não,Sim,Não,Sim,Sim,Não,Um ano,Sim,Cartão de Crédito,94.7,5430.35,Não
+7601-GNDYK,Homem,0,Sim,Sim,35,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,19.6,686.95,Não
+0356-OBMAC,Mulher,1,Não,Não,56,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Não,Dois anos,Sim,Transferência Bancária,99.9,5706.3,Não
+8067-NIOYM,Mulher,0,Sim,Sim,24,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cartão de Crédito,21.1,490.65,Não
+1403-GYAFU,Homem,0,Sim,Sim,70,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,20.05,1360.25,Não
+4234-XTNEA,Homem,0,Não,Não,2,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,79.95,174.45,Não
+1297-VQDRP,Homem,1,Sim,Sim,68,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Um ano,Sim,Cartão de Crédito,107.15,7379.8,Não
+9282-IZGQK,Mulher,0,Não,Não,1,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,85,85,Sim
+5348-CAGXB,Homem,0,Não,Não,12,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,89.55,1021.75,Não
+0621-HJWXJ,Mulher,0,Sim,Não,63,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,81.55,5029.05,Não
+5844-QVTAT,Mulher,0,Sim,Sim,33,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Não,Não,Não,Um ano,Sim,Cobrança Correio,58.45,1955.4,Não
+8905-IAZPF,Mulher,0,Sim,Não,69,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Um ano,Sim,Cartão de Crédito,95.65,6744.2,Não
+5394-MEITZ,Mulher,0,Sim,Sim,60,Sim,Não,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,80.6,4946.7,Não
+6859-QNXIQ,Mulher,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,113.1,8248.5,Não
+2782-LFZVW,Mulher,0,Não,Não,11,Sim,Sim,Sem Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Correio,58.95,601.6,Não
+2866-IKBTM,Mulher,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.55,19.55,Não
+1342-JPNKI,Homem,0,Não,Não,10,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Transferência Bancária,86.05,834.1,Sim
+2817-NTQDO,Homem,0,Não,Não,13,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Sim,Sim,Não,Mês a mês,Sim,Cartão de Crédito,45.55,597,Sim
+7129-AZJDE,Homem,0,Sim,Sim,34,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Um ano,Sim,Transferência Bancária,78.95,2647.2,Não
+6986-IJDHX,Homem,0,Sim,Sim,39,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Correio,86.3,3266,Sim
+2560-PPCHE,Mulher,0,Não,Não,65,Sim,Sim,Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Um ano,Sim,Transferência Bancária,105.05,6744.25,Não
+4676-MQUEA,Homem,1,Sim,Não,50,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Não,Um ano,Sim,Transferência Bancária,101.9,5265.5,Não
+8138-EALND,Homem,0,Não,Não,15,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.75,311.6,Não
+3580-HYCSP,Homem,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Dois anos,Sim,Transferência Bancária,110.3,7966.9,Não
+1352-HNSAW,Mulher,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,115.6,8220.4,Não
+2075-PUEPR,Homem,0,Sim,Sim,55,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,19.35,1153.25,Não
+1982-FEBTD,Mulher,0,Sim,Sim,23,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cartão de Crédito,25.6,514.75,Não
+5301-GAUUY,Homem,0,Não,Não,32,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,80.35,2596.15,Sim
+5791-KAJFD,Mulher,0,Sim,Sim,56,Sim,Sim,Sem Fibra Óptica,Sim,Não,Sim,Não,Não,Sim,Um ano,Sim,Transferência Bancária,68.75,3808,Não
+2654-VBVPB,Mulher,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Transferência Bancária,19.9,19.9,Não
+1154-HYWWO,Homem,0,Não,Não,38,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Sim,Sim,Não,Um ano,Não,Cobrança Correio,70.6,2708.2,Não
+2501-XWWTZ,Homem,0,Não,Não,11,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,70.2,760.05,Não
+3716-UVSPD,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Sim,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,49.3,49.3,Não
+6815-ABQFQ,Homem,0,Sim,Não,56,Sim,Sim,Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,107.25,6033.3,Não
+7343-EOBEU,Homem,0,Sim,Não,3,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,23.6,89.05,Não
+3701-SFMUH,Homem,0,Sim,Sim,7,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Não,Sim,Sim,Mês a mês,Não,Cartão de Crédito,69.7,516.15,Não
+6103-LIANB,Homem,0,Sim,Sim,59,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Dois anos,Sim,Cartão de Crédito,99.5,5861.75,Não
+7319-VENRZ,Homem,0,Não,Não,7,Sim,Não,Sem Fibra Óptica,Não,Não,Sim,Sim,Sim,Não,Mês a mês,Não,Transferência Bancária,64.3,445.95,Não
+5846-NEQVZ,Homem,0,Sim,Sim,71,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Sim,Dois anos,Sim,Cartão de Crédito,70.85,4973.4,Não
+6967-QIQRV,Homem,0,Sim,Sim,15,Sim,Não,Fibra Óptica,Sim,Não,Não,Sim,Sim,Sim,Um ano,Não,Cobrança Eletrônica,101.9,1667.25,Não
+5781-RFZRP,Homem,0,Sim,Não,71,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Não,Sim,Sim,Não,Dois anos,Não,Cartão de Crédito,73.5,5357.75,Não
+0939-YAPAF,Mulher,0,Não,Não,35,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,100.25,3527.6,Sim
+0308-IVGOK,Mulher,0,Não,Não,11,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Sim,Sim,Não,Não,Um ano,Sim,Cartão de Crédito,40.4,422.6,Não
+7293-LSCDV,Mulher,0,Sim,Sim,60,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cartão de Crédito,19.25,1103.25,Não
+7025-WCBNE,Homem,1,Não,Não,47,Sim,Sim,Sem Fibra Óptica,Não,Sim,Não,Sim,Não,Não,Dois anos,Não,Transferência Bancária,59.6,2754,Não
+5756-JYOJT,Mulher,0,Não,Não,11,Sim,Não,Sem Fibra Óptica,Não,Não,Sim,Sim,Não,Sim,Um ano,Não,Cartão de Crédito,64.9,697.25,Não
+4710-FDUIZ,Homem,0,Sim,Não,56,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Um ano,Não,Cartão de Crédito,100.3,5614.45,Sim
+6030-REHUX,Mulher,1,Sim,Não,28,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,110.85,3204.4,Não
+9548-LIGTA,Homem,0,Sim,Não,61,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Sim,Sim,Sim,Dois anos,Sim,Cobrança Correio,81.05,4747.65,Não
+5150-LJNSR,Homem,0,Sim,Sim,31,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Não,Sim,Não,Um ano,Não,Transferência Bancária,98.05,3082.1,Não
+8270-RKSAP,Homem,0,Não,Não,9,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,70.5,597.9,Não
+6522-YRBXD,Homem,1,Sim,Não,35,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,94.55,3365.4,Não
+2640-LYMOV,Homem,0,Não,Não,2,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,19.65,38.8,Não
+1218-VKFPE,Mulher,0,Sim,Sim,12,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19,233.55,Sim
+3627-FHKBK,Mulher,0,Não,Não,1,Sim,Não,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,75.3,75.3,Sim
+2865-TCHJW,Mulher,1,Não,Não,4,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,89.2,346.2,Sim
+1423-BMPBQ,Mulher,0,Sim,Sim,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,19,19,Não
+2393-DIVAI,Mulher,0,Não,Não,3,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,20,61.7,Não
+5192-EBGOV,Mulher,1,Não,Não,1,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,85.7,85.7,Sim
+4568-KNYWR,Homem,0,Não,Não,52,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Não,Sim,Não,Dois anos,Sim,Cartão de Crédito,63.25,3342.45,Não
+8752-IMQOS,Homem,0,Sim,Sim,5,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,20.1,85.1,Não
+0742-LAFQK,Homem,0,Sim,Não,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Não,Sim,Dois anos,Sim,Cobrança Eletrônica,99.15,7422.1,Não
+0795-LAFGP,Homem,0,Sim,Sim,71,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cobrança Eletrônica,90.4,6668.05,Não
+0619-OLYUR,Homem,0,Sim,Não,72,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,111.9,8071.05,Não
+5512-IDZEI,Homem,0,Sim,Sim,46,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Eletrônica,24.9,1174.8,Não
+0459-SPZHJ,Homem,0,Sim,Sim,63,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Dois anos,Não,Cartão de Crédito,83.5,5435,Não
+0215-BQKGS,Homem,0,Não,Não,30,Sim,Não,Fibra Óptica,Sim,Sim,Sim,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,84.3,2438.6,Não
+9244-ZVAPM,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,45.6,45.6,Não
+0719-SYFRB,Mulher,0,Não,Não,12,Sim,Sim,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Mês a mês,Sim,Cobrança Correio,61.65,713.75,Sim
+8208-EUMTE,Homem,0,Não,Não,16,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Não,Dois anos,Não,Cobrança Correio,54.85,916.15,Não
+5172-MIGPM,Homem,0,Não,Não,4,Sim,Sim,Sem Fibra Óptica,Não,Não,Não,Sim,Não,Sim,Mês a mês,Não,Cobrança Correio,65.55,237.2,Não
+1710-RCXUS,Homem,0,Sim,Não,51,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Sim,Um ano,Sim,Cartão de Crédito,90.35,4614.55,Não
+0374-FIUCA,Homem,0,Sim,Não,65,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cartão de Crédito,20.4,1414.45,Não
+5839-SUYVZ,Homem,0,Não,Não,16,Sim,Não,Fibra Óptica,Não,Não,Não,Sim,Não,Não,Mês a mês,Sim,Cartão de Crédito,74.55,1170.5,Não
+5173-ZXXXL,Homem,0,Não,Não,2,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,19.95,47.7,Não
+1096-ADRUX,Mulher,0,Sim,Sim,66,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Um ano,Sim,Transferência Bancária,74.25,4859.25,Não
+2001-MCUUW,Homem,0,Não,Não,46,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cobrança Eletrônica,108.65,4903.2,Não
+2731-GJRDG,Mulher,0,Não,Não,32,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Um ano,Sim,Transferência Bancária,109.55,3608,Não
+4723-BEGSG,Homem,0,Sim,Não,72,Sim,Sim,Sem Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Dois anos,Não,Cartão de Crédito,86.65,6094.25,Não
+6516-NKQBO,Homem,0,Sim,Sim,38,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Dois anos,Não,Cartão de Crédito,81,3084.9,Não
+8672-OAUPW,Homem,0,Não,Sim,51,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Sim,Não,Não,Um ano,Não,Cartão de Crédito,47.85,2356.75,Não
+8207-DMRVL,Homem,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Transferência Bancária,114.55,8306.05,Não
+3419-SNJJD,Mulher,1,Sim,Não,65,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Não,Sim,Sim,Mês a mês,Não,Transferência Bancária,105.25,6786.4,Sim
+6543-CPZMK,Homem,0,Sim,Sim,9,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,29.95,248.95,Sim
+4765-OXPPD,Mulher,0,Sim,Sim,9,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Não,Não,Mês a mês,Não,Cobrança Correio,65,663.05,Sim
+2804-ETQDK,Homem,0,Não,Sim,66,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,20.55,1357.1,Não
+6689-VRRTK,Mulher,1,Não,Não,44,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Um ano,Sim,Cartão de Crédito,109.8,4860.35,Não
+7138-GIRSH,Homem,0,Não,Não,50,Sim,Sim,Sem Fibra Óptica,Não,Não,Sim,Sim,Não,Sim,Dois anos,Não,Transferência Bancária,69.5,3418.2,Não
+9396-ZSFLL,Mulher,0,Não,Não,15,Sim,Sim,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,48.85,631.4,Não
+6464-KEXXH,Homem,0,Não,Não,8,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,25.25,186.3,Não
+7134-MJPDY,Mulher,1,Não,Não,66,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Um ano,Sim,Cartão de Crédito,102.85,6976.75,Não
+5240-CAOYT,Mulher,0,Não,Não,57,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Sim,Não,Não,Mês a mês,Sim,Transferência Bancária,87.55,4884.85,Não
+4059-IIEBK,Mulher,0,Não,Não,7,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,78.55,522.95,Não
+4881-JVQOD,Homem,1,Sim,Sim,10,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Transferência Bancária,34.55,362.6,Não
+0516-UXRMT,Mulher,0,Não,Não,62,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Não,Não,Um ano,Sim,Cobrança Eletrônica,92.05,5755.8,Não
+4851-BQDNX,Homem,0,Sim,Sim,40,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Sim,Não,Um ano,Sim,Cobrança Eletrônica,85.05,3355.65,Não
+5148-HKFIR,Mulher,0,Não,Não,20,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,19.7,406.95,Não
+1009-IRMNA,Mulher,0,Não,Não,7,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Transferência Bancária,20,137.6,Sim
+3003-CMDUU,Mulher,0,Sim,Não,25,Sim,Não,Fibra Óptica,Não,Não,Não,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,95.15,2395.7,Não
+5016-IBERQ,Homem,0,Sim,Não,23,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,84.25,1968.1,Não
+6797-UCJHZ,Mulher,1,Sim,Não,66,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Um ano,Não,Cartão de Crédito,104.6,6819.45,Não
+2469-DTSGX,Mulher,1,Não,Não,72,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cobrança Eletrônica,111.65,7943.45,Não
+4554-YGZIH,Homem,1,Sim,Não,49,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Sim,Mês a mês,Não,Cartão de Crédito,90.05,4547.25,Sim
+5099-BAILX,Homem,1,Sim,Sim,43,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Mês a mês,Sim,Transferência Bancária,110.75,4687.9,Sim
+9931-KGHOA,Mulher,0,Sim,Não,46,Sim,Sim,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,55,2473.95,Não
+1775-KWJKQ,Homem,0,Sim,Sim,72,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cartão de Crédito,89.85,6562.9,Não
+7665-VIGUD,Homem,0,Não,Não,10,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,20.35,176.3,Não
+9411-TPQQV,Mulher,0,Não,Não,40,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Sim,Sim,Sim,Um ano,Sim,Transferência Bancária,54.55,2236.2,Não
+7207-RMRDB,Mulher,0,Sim,Sim,65,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,105.5,6985.65,Sim
+7954-MLBUN,Homem,0,Não,Não,31,Sim,Não,Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Dois anos,Não,Transferência Bancária,99.45,3109.9,Não
+2077-DDHJK,Mulher,0,Sim,Não,68,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Não,Não,Dois anos,Não,Cartão de Crédito,70.9,4911.35,Não
+4913-EHYUI,Homem,1,Sim,Sim,56,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Não,Sim,Sim,Um ano,Sim,Transferência Bancária,104.55,5794.65,Sim
+0195-IESCP,Homem,0,Sim,Não,10,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,85.25,855.3,Sim
+9574-BOSMD,Homem,0,Sim,Sim,68,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,25.4,1620.2,Não
+4580-TMHJU,Mulher,0,Sim,Sim,43,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Não,Cobrança Eletrônica,56.15,2499.3,Sim
+0970-ETWGE,Homem,0,Não,Não,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,89.55,89.55,Sim
+4908-XAXAY,Mulher,1,Não,Não,49,Sim,Não,Fibra Óptica,Não,Sim,Sim,Não,Não,Sim,Um ano,Sim,Transferência Bancária,89.85,4287.2,Não
+8404-VLQFB,Mulher,0,Sim,Sim,15,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Eletrônica,25.25,394.85,Não
+1626-ERCMM,Homem,1,Sim,Não,20,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,94.55,1899.65,Sim
+0887-HJGAR,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,45.7,45.7,Sim
+2391-IPLOP,Homem,0,Sim,Sim,50,Sim,Sim,Sem Fibra Óptica,Não,Não,Sim,Sim,Sim,Não,Um ano,Sim,Cobrança Eletrônica,69.65,3442.15,Não
+5644-PDMZC,Mulher,1,Não,Não,2,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Sim,Mês a mês,Não,Cobrança Eletrônica,89.5,161.5,Sim
+3509-GWQGF,Homem,1,Não,Não,24,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cartão de Crédito,70,1732.6,Não
+9576-ANLXO,Mulher,0,Não,Não,3,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,69.55,222.3,Sim
+2024-BASKD,Mulher,0,Não,Não,1,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,74.6,74.6,Sim
+5845-BZZIB,Homem,0,Sim,Sim,35,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,20.1,655.3,Não
+1140-UKVZG,Mulher,0,Não,Não,17,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,24.8,475.25,Não
+4160-AMJTL,Mulher,1,Não,Não,8,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Eletrônica,19.65,164.3,Sim
+5183-SNMJQ,Homem,0,Não,Não,10,Sim,Não,Fibra Óptica,Não,Não,Não,Sim,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,95.1,865.1,Não
+8100-PNJMH,Homem,0,Sim,Sim,68,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,88.85,6132.7,Não
+7838-LAZFO,Homem,0,Sim,Não,45,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Um ano,Não,Transferência Bancária,78.8,3597.5,Não
+4464-JCOLN,Homem,0,Sim,Sim,2,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,19.85,35.9,Sim
+2085-JVGAD,Homem,0,Sim,Não,37,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Transferência Bancária,20.35,697.65,Não
+5650-VDUDS,Mulher,0,Não,Não,4,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,24.25,96.05,Sim
+8095-WANWK,Mulher,0,Não,Não,10,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,45.25,428.7,Não
+3030-ZKIWL,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.05,20.05,Não
+9565-FLVCG,Homem,0,Sim,Sim,65,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Não,Não,Não,Sim,Dois anos,Sim,Cobrança Correio,69.55,4459.15,Não
+8755-OGKNA,Mulher,0,Sim,Sim,57,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,19.5,1167.6,Não
+2800-VEQXM,Mulher,0,Não,Não,3,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,74.75,238.1,Não
+7538-GWHML,Mulher,0,Não,Não,2,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,69.65,145.15,Sim
+5533-RJFTJ,Homem,0,Não,Não,49,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,30.2,1453.1,Não
+3859-CVCET,Mulher,0,Não,Não,4,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,45.65,191.05,Sim
+0214-JHPFW,Mulher,0,Sim,Não,70,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Transferência Bancária,57.8,4039.3,Não
+5642-MHDQT,Mulher,0,Sim,Sim,53,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Sim,Transferência Bancária,19.85,1039.45,Não
+3088-FVYWK,Homem,0,Sim,Sim,53,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,25.55,1336.1,Não
+3276-HDUEG,Mulher,0,Não,Não,1,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,75.05,75.05,Sim
+9092-GDZKO,Homem,0,Não,Não,22,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cartão de Crédito,24.85,493.4,Não
+0823-HSCDJ,Homem,1,Não,Não,52,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,49.15,2550.9,Sim
+3729-OWRVL,Homem,1,Não,Não,65,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Dois anos,Sim,Cobrança Eletrônica,110.35,7246.15,Não
+2324-AALNO,Mulher,0,Não,Não,48,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Transferência Bancária,24.55,1203.95,Não
+0822-GAVAP,Mulher,0,Não,Não,2,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,34.7,62.25,Sim
+5760-IFJOZ,Homem,0,Não,Não,3,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Não,Cobrança Correio,107.95,313.6,Não
+2826-UWHIS,Homem,0,Sim,Não,45,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,81.4,3775.85,Não
+1448-PWKYE,Homem,0,Sim,Sim,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Não,Cobrança Eletrônica,80,80,Sim
+7501-IWUNG,Mulher,0,Sim,Sim,61,Sim,Não,Sem Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,73.8,4616.05,Não
+4957-TREIR,Homem,0,Não,Não,3,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Sim,Sim,Não,Mês a mês,Sim,Cartão de Crédito,64.4,195.65,Não
+7251-LJBQN,Mulher,1,Não,Não,40,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Um ano,Sim,Cartão de Crédito,103.75,4188.4,Não
+8040-MNRTF,Mulher,0,Não,Não,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,71.1,71.1,Não
+1536-HBSWP,Mulher,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Sim,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,49.9,49.9,Não
+5313-FPXWG,Homem,0,Não,Não,51,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Sim,Transferência Bancária,24.6,1266.4,Não
+0067-DKWBL,Homem,1,Não,Não,2,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,49.25,91.1,Sim
+0946-FKYTX,Homem,0,Não,Não,52,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Um ano,Não,Cobrança Correio,30.1,1623.4,Não
+5076-YVXCM,Homem,0,Não,Não,51,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Não,Transferência Bancária,83.4,4149.45,Não
+8262-COGGB,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,20.45,20.45,Não
+6663-JOCQO,Homem,0,Sim,Sim,31,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Não,Sim,Não,Sim,Um ano,Sim,Transferência Bancária,75.25,2344.5,Não
+9620-QJREV,Homem,0,Não,Sim,47,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cartão de Crédito,20.55,1013.05,Não
+2276-YDAVZ,Mulher,0,Não,Não,3,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,75.1,270.7,Sim
+2682-KEVRP,Mulher,1,Não,Não,22,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Sim,Cobrança Correio,20.05,417,Não
+2480-JZOSN,Mulher,0,Sim,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,20.65,20.65,Não
+0078-XZMHT,Homem,0,Sim,Não,72,Sim,Sim,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,85.15,6316.2,Não
+5896-NPFWW,Homem,0,Sim,Sim,3,Sim,Não,Sem Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,50.15,168.15,Sim
+9978-HYCIN,Homem,1,Sim,Sim,47,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Um ano,Sim,Transferência Bancária,84.95,4018.05,Não
+8338-QIUNR,Homem,0,Sim,Sim,72,Sim,Sim,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Dois anos,Sim,Cartão de Crédito,66.5,4811.6,Não
+1525-LNLOJ,Homem,0,Sim,Sim,66,Sim,Sim,Sem Fibra Óptica,Não,Não,Sim,Não,Sim,Não,Dois anos,Sim,Transferência Bancária,63.3,4189.7,Não
+9450-TRJUU,Homem,0,Não,Não,35,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Não,Cobrança Eletrônica,83.15,2848.45,Não
+1766-GKNMI,Homem,0,Não,Não,29,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,84.9,2516.2,Não
+6942-LBFDP,Mulher,0,Não,Não,2,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,20.55,33.6,Não
+1456-TWCGB,Homem,0,Não,Não,4,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,49.25,208.45,Não
+7133-VBDCG,Mulher,0,Não,Não,25,Sim,Não,Fibra Óptica,Sim,Sim,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,79.85,2015.35,Sim
+7596-ZYWBB,Mulher,0,Não,Não,65,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Sim,Não,Não,Dois anos,Sim,Cobrança Correio,59.6,3739.8,Não
+8329-UTMVM,Homem,1,Não,Não,27,Sim,Sim,Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Um ano,Sim,Transferência Bancária,104.65,2964,Não
+3014-WJKSM,Homem,0,Sim,Não,29,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,75.3,2263.4,Não
+3347-YJZZE,Homem,0,Sim,Sim,29,Sim,Sim,Sem Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Não,Cartão de Crédito,80.1,2211.8,Não
+1029-QFBEN,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.55,19.55,Sim
+7929-DMBCV,Mulher,0,Sim,Não,20,Sim,Não,Fibra Óptica,Não,Não,Sim,Sim,Não,Não,Mês a mês,Sim,Cobrança Correio,81,1683.7,Não
+9661-JALZV,Mulher,0,Não,Não,58,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cartão de Crédito,24.7,1519,Não
+5433-KYGHE,Mulher,0,Não,Sim,14,Sim,Sim,Fibra Óptica,Sim,Não,Não,Sim,Não,Não,Mês a mês,Sim,Cobrança Correio,86,1164.05,Não
+4312-KFRXN,Homem,0,Sim,Não,72,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,25.4,1710.9,Não
+5575-TPIZQ,Homem,0,Não,Não,46,Sim,Sim,Fibra Óptica,Sim,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cartão de Crédito,89.15,4245.55,Não
+0114-IGABW,Mulher,0,Sim,Não,71,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Transferência Bancária,58.25,4145.9,Não
+9944-AEXBM,Homem,0,Não,Não,32,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Transferência Bancária,85.65,2664.3,Não
+1853-ARAAQ,Mulher,0,Não,Não,26,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,50.35,1277.5,Não
+6952-OMNWB,Homem,1,Sim,Não,68,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,80.35,5589.3,Não
+4697-LUPSU,Homem,0,Sim,Sim,2,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,20.2,34.75,Não
+8434-VGEQQ,Homem,0,Sim,Sim,61,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,20.55,1305.95,Não
+4952-YSOGZ,Mulher,0,Sim,Sim,4,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,85.95,381.3,Sim
+1589-AGTLK,Homem,0,Não,Não,3,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,45.35,141.5,Sim
+5244-IRFIH,Homem,1,Sim,Não,33,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,94.5,3105.55,Sim
+6549-YMFAW,Homem,1,Sim,Não,9,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,21.25,204.55,Não
+4950-HKQTE,Mulher,0,Não,Não,22,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,26.25,605.9,Não
+6786-OBWQR,Mulher,0,Sim,Sim,5,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,80.85,356.1,Não
+2684-EIWEO,Mulher,1,Não,Não,30,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Não,Não,Mês a mês,Não,Cartão de Crédito,91.7,2758.15,Sim
+2753-JMMCV,Homem,0,Não,Não,65,Sim,Sim,Sem Fibra Óptica,Não,Sim,Sim,Sim,Não,Sim,Dois anos,Sim,Cartão de Crédito,74.2,4805.65,Não
+6439-GTPCA,Mulher,0,Não,Não,45,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,87.25,3941.7,Sim
+6621-YOBKI,Homem,0,Não,Não,5,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.35,92.75,Não
+1216-JWVUX,Homem,0,Sim,Sim,25,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,75.5,1901.05,Não
+7564-GHCVB,Mulher,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Dois anos,Não,Transferência Bancária,79.05,5730.7,Não
+1173-NOEYG,Mulher,0,Sim,Não,27,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Não,Sim,Mês a mês,Não,Transferência Bancária,90.15,2423.4,Não
+7595-EHCDL,Homem,0,Sim,Sim,32,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Não,Cartão de Crédito,50.6,1653.45,Não
+6647-ZEDXT,Mulher,0,Não,Não,30,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Um ano,Não,Cartão de Crédito,110.45,3327.05,Não
+2521-NPUZR,Homem,0,Sim,Não,70,Sim,Não,Fibra Óptica,Sim,Sim,Sim,Sim,Não,Sim,Dois anos,Não,Cartão de Crédito,101,7085.5,Não
+1307-TVUFB,Homem,1,Não,Não,42,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,79.35,3344.1,Não
+7503-MIOGA,Mulher,1,Sim,Não,72,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,89.85,6697.35,Não
+4381-MHQDC,Mulher,0,Não,Não,47,Sim,Sim,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Dois anos,Sim,Cobrança Correio,65,2879.9,Não
+6923-JHPMP,Mulher,0,Não,Não,2,Sim,Não,Fibra Óptica,Sim,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,80.45,137.1,Não
+5138-WVKYJ,Homem,0,Não,Não,10,Sim,Sim,Fibra Óptica,Sim,Não,Não,Não,Sim,Sim,Mês a mês,Não,Cobrança Eletrônica,98.55,1008.55,Sim
+4018-PPNDW,Mulher,0,Sim,Sim,61,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cobrança Correio,24.1,1551.6,Não
+1635-FJFCC,Mulher,0,Não,Não,5,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,44.05,202.15,Não
+2499-AJYUA,Mulher,1,Sim,Não,72,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,110.8,7882.25,Não
+6919-ELBGL,Homem,1,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,114.95,8196.4,Não
+3966-HRMZA,Mulher,1,Não,Não,3,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Não,Cobrança Correio,75.05,202.9,Não
+6425-JWTDV,Homem,0,Sim,Não,48,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,19.25,855.1,Não
+8405-IGQFX,Mulher,0,Não,Não,63,Sim,Não,Fibra Óptica,Não,Não,Sim,Sim,Sim,Não,Um ano,Sim,Cartão de Crédito,90.05,5817,Não
+8224-IVVPA,Mulher,0,Não,Não,27,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,56.7,1652.95,Não
+9477-LGWQI,Homem,0,Sim,Sim,70,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Dois anos,Sim,Cartão de Crédito,80.15,5600.15,Não
+1410-RSCMR,Homem,0,Sim,Sim,7,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Sim,Mês a mês,Sim,Cartão de Crédito,71.35,515.75,Não
+0139-IVFJG,Mulher,0,Sim,Não,2,Sim,Não,Fibra Óptica,Sim,Sim,Não,Não,Sim,Não,Mês a mês,Não,Cobrança Eletrônica,90.35,190.5,Não
+6683-VLCTZ,Homem,1,Não,Não,20,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,98.55,1842.8,Sim
+5730-DBDSI,Homem,0,Não,Não,66,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,19.7,1253.8,Não
+0030-FNXPP,Mulher,0,Não,Não,3,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.85,57.2,Não
+2189-WWOEW,Mulher,0,Não,Sim,15,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Não,Sim,Mês a mês,Sim,Transferência Bancária,85.9,1269.55,Sim
+5684-FJVYR,Mulher,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Sim,Não,Não,Dois anos,Sim,Transferência Bancária,90.35,6563.4,Não
+4013-GUXND,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.8,20.8,Não
+1894-IGFSG,Mulher,0,Não,Não,22,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Não,Cobrança Eletrônica,89.25,1907.85,Sim
+7379-POKDZ,Homem,0,Sim,Não,3,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,70.3,208.85,Sim
+1266-NZYUI,Mulher,0,Sim,Sim,72,Sim,Sim,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Dois anos,Não,Transferência Bancária,66.85,4758.8,Não
+7969-FFOWG,Homem,0,Sim,Sim,65,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,19.9,1292.6,Não
+4718-DHSMV,Mulher,0,Não,Não,11,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Correio,35.8,363.15,Não
+5175-WLYXL,Homem,0,Não,Não,22,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,78.85,1600.25,Não
+7817-OMJNA,Homem,0,Não,Não,14,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Transferência Bancária,20.4,275.7,Não
+8728-SKJLR,Homem,0,Não,Não,41,Sim,Não,Fibra Óptica,Não,Não,Não,Sim,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,74.25,3089.1,Não
+3137-NYQQI,Homem,0,Sim,Não,17,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Não,Não,Sim,Um ano,Não,Cobrança Correio,64.8,1175.6,Não
+7706-DZNKK,Homem,0,Não,Não,11,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cartão de Crédito,20.45,237.3,Não
+0236-HFWSV,Homem,0,Não,Não,15,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,93.35,1444.65,Sim
+3900-AQPHZ,Mulher,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.9,19.9,Sim
+5842-POCOP,Mulher,0,Sim,Não,5,Sim,Não,Fibra Óptica,Sim,Não,Sim,Não,Não,Sim,Mês a mês,Sim,Cobrança Correio,88.9,454.15,Sim
+2037-XJFUP,Homem,0,Sim,Não,33,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,95.8,3036.75,Sim
+8823-RLPWL,Mulher,0,Sim,Não,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Dois anos,Sim,Cartão de Crédito,110.65,8065.65,Não
+9505-SQFSW,Mulher,0,Sim,Sim,3,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Sim,Mês a mês,Não,Cobrança Correio,40.3,92.5,Não
+7314-OXENN,Homem,0,Não,Não,2,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,82,184.65,Sim
+3758-CKOQL,Mulher,0,Sim,Não,59,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Não,Sim,Um ano,Sim,Cartão de Crédito,107,6152.3,Não
+0322-CHQRU,Homem,0,Não,Não,2,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,45.35,89.5,Sim
+5676-CFLYY,Homem,0,Sim,Sim,71,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,73.35,5154.5,Não
+7521-AFHAB,Mulher,0,Sim,Sim,5,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,44.8,220.45,Não
+0285-INHLN,Homem,0,Sim,Sim,27,Sim,Não,Sem Fibra Óptica,Sim,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,54.75,1510.3,Não
+4678-DVQEO,Mulher,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Sim,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,52.2,52.2,Sim
+5125-CNDSP,Homem,0,Não,Sim,63,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Não,Sim,Não,Não,Um ano,Sim,Transferência Bancária,40.6,2588.95,Não
+0691-IFBQW,Mulher,1,Não,Não,46,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,110,4874.8,Sim
+4992-LTJNE,Homem,0,Sim,Sim,72,Sim,Sim,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Dois anos,Não,Transferência Bancária,55.3,3983.6,Não
+2202-OUTMO,Mulher,0,Sim,Não,34,Sim,Sim,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Não,Mês a mês,Sim,Transferência Bancária,60.85,2003.6,Não
+0810-BDHAW,Mulher,0,Sim,Sim,24,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Não,Não,Sim,Sim,Um ano,Não,Cobrança Eletrônica,78.4,1832.4,Não
+0229-LFJAF,Homem,0,Não,Não,72,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Não,Não,Dois anos,Não,Transferência Bancária,69.65,4908.25,Não
+7131-ZQZNK,Mulher,0,Sim,Sim,60,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Dois anos,Não,Cartão de Crédito,59.85,3590.2,Não
+3442-ZHHCC,Homem,0,Não,Não,68,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Não,Não,Sim,Um ano,Sim,Cartão de Crédito,76.9,5023,Não
+5726-CVNYA,Mulher,0,Sim,Sim,8,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cobrança Correio,19.85,146.6,Não
+9871-ELEYA,Mulher,0,Não,Sim,34,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Sim,Sim,Não,Dois anos,Não,Cartão de Crédito,67.65,2339.3,Não
+4257-GAESD,Mulher,0,Não,Não,6,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Não,Cartão de Crédito,45,298.7,Não
+5173-WXOQV,Homem,0,Sim,Não,2,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Sim,Não,Sim,Mês a mês,Sim,Cobrança Correio,64.2,143.65,Não
+2040-OBMLJ,Homem,0,Não,Não,31,Sim,Sim,Fibra Óptica,Não,Não,Não,Sim,Não,Não,Um ano,Não,Cartão de Crédito,81.7,2548.65,Não
+6286-ZHAOK,Mulher,0,Sim,Sim,20,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Transferência Bancária,25.55,507.4,Não
+3807-XHCJH,Mulher,0,Sim,Sim,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Eletrônica,20,20,Não
+3009-JWMPU,Homem,0,Não,Não,62,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,96.75,6125.4,Sim
+5671-RQRLP,Mulher,1,Sim,Não,70,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Dois anos,Sim,Cartão de Crédito,75.65,5411.4,Não
+1450-GALXR,Mulher,0,Não,Não,10,Sim,Sim,Fibra Óptica,Não,Não,Não,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,98.5,1058.25,Sim
+8859-AXJZP,Homem,0,Sim,Sim,39,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cobrança Correio,23.8,903.8,Não
+3174-AKMAS,Mulher,0,Sim,Não,46,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Sim,Sim,Não,Dois anos,Sim,Cartão de Crédito,64.2,3009.5,Não
+3138-BKYAV,Homem,0,Não,Não,6,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,85.35,489.45,Sim
+9926-PJHDQ,Mulher,0,Sim,Sim,72,Sim,Sim,Sem Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Dois anos,Sim,Transferência Bancária,76.8,5468.45,Não
+7382-DFJTU,Homem,0,Não,Não,18,Sim,Não,Sem Fibra Óptica,Não,Não,Sim,Sim,Não,Não,Mês a mês,Não,Cartão de Crédito,55.2,1058.1,Não
+2798-NYLMZ,Homem,0,Sim,Não,71,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,108.55,7616,Não
+4289-DTDKW,Homem,0,Sim,Não,40,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,101.3,4113.1,Sim
+1820-TQVEV,Homem,0,Não,Não,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,69.55,69.55,Sim
+2239-JALAW,Homem,0,Não,Não,58,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Um ano,Sim,Transferência Bancária,103.25,6017.65,Sim
+4853-RULSV,Homem,0,Não,Não,70,Sim,Sim,Fibra Óptica,Sim,Não,Não,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,104,7250.15,Sim
+8098-TDCBU,Mulher,0,Sim,Não,42,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Eletrônica,25.25,1108.2,Não
+3551-GAEGL,Homem,0,Sim,Sim,34,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Um ano,Não,Transferência Bancária,30.4,938.65,Não
+4785-NKHCX,Homem,1,Não,Não,5,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Transferência Bancária,20.05,94.15,Não
+3196-NVXLZ,Mulher,0,Não,Não,25,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Correio,84.6,2088.05,Não
+6275-YDUVO,Mulher,0,Não,Não,2,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Não,Sim,Mês a mês,Sim,Cobrança Correio,86.2,178.7,Sim
+0036-IHMOT,Mulher,0,Sim,Sim,55,Sim,Não,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Um ano,Sim,Transferência Bancária,103.7,5656.75,Não
+0115-TFERT,Homem,0,Sim,Não,21,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,111.2,2317.1,Sim
+4178-EGMON,Homem,0,Sim,Não,70,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Sim,Não,Não,Dois anos,Sim,Cartão de Crédito,88,5986.45,Não
+4220-TINQT,Mulher,0,Sim,Não,61,Sim,Sim,Fibra Óptica,Não,Não,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,106.35,6751.35,Não
+5318-YKDPV,Homem,0,Sim,Sim,43,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,79.15,3566.6,Não
+7975-TZMLR,Homem,0,Não,Não,47,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,103.1,4889.3,Não
+0295-QVKPB,Homem,0,Não,Não,5,Sim,Não,Sem Fibra Óptica,Não,Não,Sim,Sim,Sim,Não,Mês a mês,Sim,Cartão de Crédito,63.95,318.1,Não
+4335-BSMJS,Mulher,0,Não,Não,62,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cartão de Crédito,25.8,1563.95,Não
+2311-QYMUQ,Mulher,0,Sim,Sim,16,Sim,Não,Fibra Óptica,Não,Sim,Sim,Não,Sim,Não,Mês a mês,Sim,Cartão de Crédito,89.45,1430.25,Sim
+3643-AHCFP,Homem,1,Sim,Não,7,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Transferência Bancária,95.6,644.35,Sim
+9146-JRIOX,Mulher,0,Sim,Sim,14,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,25.55,372.45,Não
+3104-OWCGK,Homem,0,Sim,Sim,60,Sim,Não,Fibra Óptica,Não,Sim,Sim,Não,Sim,Não,Um ano,Não,Cobrança Eletrônica,90.95,5453.4,Sim
+5337-IIWKZ,Homem,0,Sim,Sim,34,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Sim,Sim,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,44.85,1442.6,Não
+9101-BWFSS,Mulher,0,Sim,Não,50,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Sim,Sim,Sim,Um ano,Não,Cobrança Eletrônica,108.55,5610.7,Sim
+9650-VBUOG,Homem,0,Sim,Sim,38,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,25.05,963.95,Não
+3487-EARAT,Mulher,0,Sim,Sim,70,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Não,Sim,Um ano,Não,Cartão de Crédito,74.1,5222.3,Não
+2672-TGEFF,Mulher,0,Sim,Sim,37,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,88.8,3340.55,Não
+9231-ZJYAM,Mulher,1,Não,Não,4,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,78.85,292.8,Sim
+4250-WAROZ,Homem,1,Sim,Sim,60,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,93.25,5774.55,Não
+8184-WMOFI,Homem,0,Sim,Sim,62,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Sim,Um ano,Não,Cartão de Crédito,71.4,4487.3,Não
+6982-SSHFK,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,44.4,44.4,Sim
+6092-QZVPP,Homem,0,Não,Não,36,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,79.2,2854.95,Não
+4625-LAMOB,Homem,0,Não,Não,44,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,20.4,905.55,Não
+0727-BMPLR,Mulher,1,Não,Não,55,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,100,5509.3,Sim
+0392-BZIUW,Mulher,0,Sim,Não,72,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Não,Sim,Sim,Dois anos,Sim,Cartão de Crédito,105,7589.8,Não
+1038-ZAGBI,Mulher,0,Sim,Sim,12,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Transferência Bancária,19.8,229.6,Sim
+6549-NNDYT,Mulher,0,Não,Não,13,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,30.85,394.1,Não
+3027-ZTDHO,Homem,0,Não,Não,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,89.9,89.9,Sim
+0422-OHQHQ,Mulher,0,Sim,Sim,15,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cobrança Correio,20.55,295.95,Não
+6916-HIJSE,Mulher,0,Não,Não,65,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,84.85,5459.2,Não
+2316-ESMLS,Mulher,0,Sim,Sim,12,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Não,Um ano,Não,Cartão de Crédito,33.15,444.75,Não
+9778-OGKQZ,Homem,0,Sim,Não,72,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,92,6782.15,Não
+7408-OFWXJ,Mulher,0,Sim,Sim,72,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Cartão de Crédito,89.8,6510.45,Não
+6007-TCTST,Mulher,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,115.8,8476.5,Não
+2252-NKNSI,Homem,0,Não,Sim,52,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Não,Sim,Sim,Sim,Dois anos,Sim,Cobrança Correio,85.15,4461.85,Não
+8713-IGZSO,Homem,0,Não,Não,2,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,24.85,62,Não
+7905-TVXTA,Mulher,0,Não,Não,5,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Sim,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,64.35,352.65,Não
+7695-PKLCZ,Mulher,0,Não,Não,68,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,20.5,1424.9,Não
+2382-BCKQJ,Mulher,0,Não,Sim,62,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,100.15,6413.65,Sim
+8374-UULRV,Homem,0,Não,Não,72,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Não,Sim,Sim,Sim,Dois anos,Não,Cartão de Crédito,86.05,6309.65,Não
+2207-NHRJK,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,50.8,50.8,Sim
+3224-DFQNQ,Mulher,0,Sim,Não,66,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Sim,Não,Não,Um ano,Não,Cobrança Eletrônica,89,5898.6,Não
+5275-PMFUT,Homem,0,Sim,Sim,72,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,64.8,4719.75,Não
+4795-UXVCJ,Homem,0,Não,Não,26,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cartão de Crédito,19.8,457.3,Não
+9777-IQHWP,Homem,0,Sim,Sim,64,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Não,Não,Sim,Dois anos,Não,Transferência Bancária,93.4,5822.3,Não
+0947-MUGVO,Homem,1,Sim,Não,20,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,73.65,1463.5,Sim
+9944-HKVVB,Mulher,0,Não,Não,3,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,95.1,307.4,Sim
+4124-MMETB,Homem,0,Não,Não,22,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cartão de Crédito,94.65,2104.55,Sim
+3671-SHRSP,Homem,0,Sim,Não,4,Sim,Não,Fibra Óptica,Não,Não,Sim,Sim,Não,Não,Mês a mês,Sim,Cobrança Correio,80.6,319.15,Sim
+0979-MOZQI,Homem,0,Sim,Não,62,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Sim,Sim,Não,Dois anos,Sim,Transferência Bancária,39,2337.45,Não
+2732-ISEZX,Mulher,0,Não,Não,5,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,20.5,104.3,Não
+3313-QKNKB,Homem,0,Sim,Não,59,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Um ano,Não,Cobrança Eletrônica,85.55,5084.65,Sim
+0323-XWWTN,Homem,0,Não,Sim,3,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Cobrança Correio,26.4,121.25,Não
+1937-OTUKY,Mulher,0,Sim,Não,72,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Não,Dois anos,Sim,Transferência Bancária,98.2,7015.9,Não
+1573-LGXBA,Homem,0,Sim,Sim,57,Sim,Não,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Um ano,Sim,Cartão de Crédito,97.55,5598,Não
+1764-VUUMT,Homem,0,Não,Sim,66,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,19.95,1269.1,Não
+5073-WXOYN,Mulher,0,Não,Não,60,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,50.8,3027.4,Sim
+4713-ZBURT,Homem,0,Não,Sim,45,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Dois anos,Não,Transferência Bancária,99.7,4634.35,Não
+3050-GBUSH,Mulher,0,Não,Não,3,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cartão de Crédito,34.8,113.95,Não
+0207-MDKNV,Mulher,0,Não,Não,15,Sim,Não,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Mês a mês,Não,Cobrança Eletrônica,105.1,1582.75,Sim
+7876-AEHIG,Mulher,0,Não,Sim,51,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Um ano,Não,Transferência Bancária,60.15,3077,Não
+7945-HLKEA,Mulher,0,Não,Não,60,Sim,Sim,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Um ano,Não,Cobrança Eletrônica,64.75,4039.5,Não
+9342-VNIMQ,Homem,0,Não,Não,33,Sim,Sim,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,54.65,1665.2,Não
+9851-KIELU,Homem,0,Não,Não,10,Sim,Não,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,110.1,1043.3,Sim
+3523-BRGUW,Homem,1,Não,Não,26,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cartão de Crédito,19.3,504.2,Não
+3908-BLSYF,Mulher,0,Não,Não,6,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Não,Sim,Mês a mês,Não,Cobrança Eletrônica,83.9,497.55,Sim
+3199-NPKCN,Mulher,0,Sim,Não,67,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,111.25,7511.65,Não
+5170-PTRKA,Mulher,0,Sim,Sim,49,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Não,Um ano,Sim,Cartão de Crédito,35.8,1782,Não
+4661-NJEUX,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,20.05,20.05,Não
+2123-AGEEN,Mulher,1,Não,Não,7,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,84.35,609.65,Não
+1258-YMZNM,Mulher,1,Não,Não,27,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Um ano,Sim,Transferência Bancária,110.5,2857.6,Não
+0048-LUMLS,Homem,0,Sim,Sim,37,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Um ano,Não,Cartão de Crédito,91.2,3247.55,Não
+7549-MYGPK,Mulher,0,Sim,Sim,63,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,100.55,6215.35,Sim
+5898-IGSLP,Homem,0,Sim,Sim,31,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Mês a mês,Não,Cobrança Eletrônica,89.3,2823,Não
+3804-RVTGV,Homem,0,Sim,Sim,50,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Mês a mês,Sim,Transferência Bancária,103.85,5017.9,Sim
+6259-WJQLC,Homem,1,Não,Não,32,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,81.1,2619.25,Não
+9227-LUNBG,Mulher,0,Não,Não,1,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,24.6,24.6,Sim
+7997-EASSD,Mulher,0,Sim,Não,63,Sim,Sim,Fibra Óptica,Não,Não,Não,Sim,Não,Não,Um ano,Sim,Cartão de Crédito,81.2,4965.1,Não
+0730-KOAVE,Homem,0,Não,Não,30,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Não,Não,Sim,Mês a mês,Sim,Cartão de Crédito,94.3,2679.7,Não
+8975-SKGRX,Homem,0,Sim,Não,71,Sim,Sim,Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,116.1,8310.55,Não
+0678-RLHVP,Mulher,0,Não,Não,53,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Dois anos,Não,Cobrança Eletrônica,105.55,5682.25,Não
+4315-MURBD,Mulher,0,Não,Não,12,Sim,Não,Fibra Óptica,Sim,Não,Não,Sim,Sim,Sim,Mês a mês,Sim,Transferência Bancária,98.9,1120.95,Sim
+2267-FPIMA,Homem,0,Sim,Não,50,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Não,Não,Sim,Mês a mês,Sim,Cartão de Crédito,94.4,4914.9,Não
+1051-GEJLJ,Mulher,0,Não,Não,2,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.5,27.55,Não
+9734-YWGEX,Mulher,0,Não,Não,9,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Não,Cartão de Crédito,98.3,923.5,Sim
+2719-BDAQO,Homem,0,Não,Não,17,Sim,Não,Fibra Óptica,Sim,Não,Não,Não,Sim,Sim,Mês a mês,Não,Cobrança Eletrônica,93.85,1625.65,Sim
+5285-MVEHD,Mulher,0,Sim,Não,56,Sim,Não,Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Um ano,Sim,Cartão de Crédito,105.6,6068.65,Não
+0379-DJQHR,Homem,0,Sim,Sim,67,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Não,Sim,Sim,Dois anos,Não,Cartão de Crédito,81.35,5398.6,Não
+0781-LKXBR,Homem,1,Não,Não,9,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,100.5,918.6,Sim
+5543-QDCRY,Homem,0,Não,Não,4,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,56.4,234.85,Não
+0297-RBCSG,Homem,0,Não,Não,19,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Sim,Não,Sim,Um ano,Sim,Transferência Bancária,65.35,1231.85,Não
+4694-PHWFW,Mulher,0,Não,Sim,8,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.95,170.9,Não
+0835-JKADZ,Mulher,0,Não,Não,71,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Cobrança Eletrônica,111.25,7984.15,Não
+1907-UBQFC,Homem,1,Não,Não,10,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,72.85,688.65,Sim
+7508-SMHXL,Mulher,1,Não,Não,15,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Mês a mês,Não,Cartão de Crédito,89,1288.3,Não
+3865-YIOTT,Homem,0,Sim,Sim,72,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Não,Sim,Sim,Um ano,Sim,Transferência Bancária,106.1,7848.5,Não
+5993-BQHEA,Homem,0,Não,Não,12,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cartão de Crédito,20.05,267,Não
+6024-RUGGH,Homem,0,Sim,Sim,72,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Sim,Transferência Bancária,25.2,1798.9,Não
+6513-EECDB,Homem,1,Sim,Não,1,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,73.55,73.55,Sim
+3956-CJUST,Mulher,1,Não,Não,23,Sim,Não,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,75.4,1643.55,Não
+4079-WWQQQ,Homem,0,Não,Não,72,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Sim,Transferência Bancária,65.55,4807.45,Não
+6103-BOCOU,Mulher,0,Não,Não,26,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,80.7,2193,Não
+5149-TGWDZ,Mulher,0,Não,Não,21,Sim,Não,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Um ano,Sim,Cobrança Correio,104.55,2239.4,Não
+7471-WNSUF,Homem,0,Sim,Não,60,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Transferência Bancária,24.15,1505.9,Não
+8942-DBMHZ,Homem,0,Não,Não,12,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.45,255.35,Não
+4301-VVZKA,Homem,0,Sim,Não,16,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,75.4,1189.4,Não
+9199-PWQVC,Mulher,0,Sim,Não,63,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Não,Não,Sim,Sim,Um ano,Sim,Cartão de Crédito,79.7,4786.15,Não
+4824-GUCBY,Mulher,1,Não,Não,22,Sim,Não,Fibra Óptica,Sim,Sim,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,81.7,1820.9,Não
+5393-HJZSM,Mulher,0,Sim,Sim,32,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Não,Sim,Mês a mês,Não,Transferência Bancária,76.3,2404.15,Não
+7074-IEVOJ,Mulher,1,Não,Não,3,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,79.4,205.05,Sim
+9625-QSTYE,Mulher,0,Não,Não,13,Sim,Não,Fibra Óptica,Não,Sim,Sim,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,81.15,952.3,Sim
+0862-PRCBS,Mulher,0,Sim,Sim,68,Sim,Sim,Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,103.75,7039.45,Não
+8812-ZRHFP,Mulher,0,Sim,Sim,30,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Não,Sim,Um ano,Não,Cobrança Eletrônica,86.45,2538.05,Não
+5146-CBVOE,Mulher,0,Não,Não,16,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,75.1,1212.85,Não
+0454-OKRCT,Homem,0,Não,Não,33,Sim,Não,Fibra Óptica,Não,Sim,Não,Sim,Não,Não,Dois anos,Não,Transferência Bancária,80.6,2651.1,Não
+5787-KXGIY,Homem,0,Sim,Não,72,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,19.3,1304.8,Não
+4750-ZRXIU,Mulher,1,Não,Não,4,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,84.6,360.1,Sim
+4198-VFOEA,Mulher,0,Não,Não,12,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Não,Um ano,Sim,Cobrança Correio,33.6,435.45,Não
+6630-UJZMY,Mulher,1,Sim,Não,4,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,83.25,308.05,Não
+6400-BWQKW,Mulher,0,Não,Não,6,Sim,Sim,Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,79.05,434.5,Sim
+2692-AQCPF,Mulher,0,Sim,Não,65,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Sim,Sim,Sim,Um ano,Sim,Cartão de Crédito,108.05,7118.9,Não
+0347-UBKUZ,Mulher,0,Não,Não,15,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.9,320.45,Não
+0835-DUUIQ,Mulher,0,Não,Sim,24,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Transferência Bancária,21.05,531.55,Não
+0811-GSDTP,Mulher,0,Não,Sim,13,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,30.15,382.2,Não
+7567-ECMCM,Homem,0,Não,Não,24,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cartão de Crédito,79.85,2001,Não
+6115-ZTBFQ,Mulher,0,Sim,Não,72,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Sim,Dois anos,Não,Transferência Bancária,65.5,4919.7,Não
+6353-BRMMA,Mulher,0,Sim,Sim,54,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Não,Sim,Sim,Mês a mês,Sim,Transferência Bancária,104.1,5645.8,Não
+6680-WKXRZ,Mulher,0,Não,Não,3,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,74.4,215.8,Sim
+6231-WFGFH,Homem,0,Sim,Sim,4,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Cobrança Correio,20.5,77.6,Não
+9904-EHEVJ,Mulher,1,Sim,Sim,32,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Não,Mês a mês,Sim,Cobrança Correio,91.35,2896.55,Não
+7028-DVOIQ,Homem,1,Não,Não,35,Sim,Sim,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,99.05,3395.8,Sim
+6169-PPETC,Homem,0,Sim,Sim,35,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,20.5,759.35,Não
+4208-UFFGW,Homem,1,Não,Não,2,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Correio,44.95,85.15,Sim
+8584-KMVXD,Mulher,0,Não,Não,8,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,75.6,535.55,Não
+8467-WYNSR,Homem,0,Não,Não,22,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Não,Mês a mês,Não,Cobrança Correio,55.1,1253.15,Não
+0851-DFJKB,Mulher,0,Não,Não,15,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Não,Mês a mês,Não,Cobrança Eletrônica,58.95,955.15,Não
+5382-SOYZL,Homem,0,Não,Não,22,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,95.1,2162.6,Não
+9448-REEVD,Homem,0,Sim,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cartão de Crédito,44.7,44.7,Sim
+3261-CQXOL,Mulher,0,Sim,Sim,71,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,25.45,1813.35,Não
+8388-FYNPZ,Homem,0,Não,Não,4,Sim,Não,Sem Fibra Óptica,Sim,Não,Sim,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,56.75,245.15,Não
+4002-BQWPQ,Homem,0,Não,Não,25,Sim,Sim,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Não,Sim,Mês a mês,Não,Transferência Bancária,81.75,2028.8,Não
+5651-YLPRD,Mulher,0,Sim,Sim,32,Sim,Não,Fibra Óptica,Não,Sim,Não,Não,Sim,Não,Mês a mês,Sim,Cobrança Eletrônica,86.1,2723.75,Não
+2826-DXLQO,Homem,1,Sim,Não,7,Não,Sem serviço telefônico,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,29.8,220.45,Não
+4378-BZYFP,Homem,0,Não,Não,17,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Sim,Cobrança Correio,20.5,365.8,Não
+9489-UTFKA,Homem,1,Sim,Não,8,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Não,Sim,Não,Mês a mês,Não,Transferência Bancária,60.9,551.95,Não
+4849-PYRLQ,Mulher,1,Não,Não,56,Sim,Sim,Sem Fibra Óptica,Sim,Não,Sim,Sim,Não,Sim,Dois anos,Não,Transferência Bancária,73.25,4054.2,Não
+9117-SHLZX,Homem,0,Não,Não,1,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,45.7,45.7,Sim
+9889-TMAHG,Homem,1,Não,Não,8,Sim,Não,Fibra Óptica,Sim,Não,Não,Sim,Sim,Sim,Mês a mês,Não,Cartão de Crédito,100.3,832.35,Sim
+4541-RMRLG,Homem,0,Não,Não,7,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Eletrônica,19.25,112.3,Sim
+7764-BDPEE,Homem,0,Não,Sim,3,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,20.85,60.65,Não
+3429-IFLEM,Mulher,0,Não,Não,71,Sim,Não,Sem Fibra Óptica,Sim,Sim,Sim,Sim,Sim,Não,Dois anos,Não,Cartão de Crédito,77.35,5550.1,Não
+3158-MOERK,Mulher,0,Não,Não,2,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,96,174.8,Sim
+7294-TMAOP,Mulher,0,Não,Não,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Não,Cobrança Eletrônica,90.55,90.55,Sim
+5002-GCQFH,Homem,0,Sim,Não,49,Sim,Sim,Fibra Óptica,Sim,Sim,Não,Não,Sim,Não,Mês a mês,Sim,Transferência Bancária,93.85,4733.1,Não
+0556-FJEGU,Homem,0,Não,Não,58,Sim,Não,Sem Fibra Óptica,Não,Sim,Sim,Sim,Sim,Não,Dois anos,Não,Transferência Bancária,70.1,4048.95,Não
+8919-FYFQZ,Homem,1,Sim,Não,44,Não,Sem serviço telefônico,Sem Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,30.35,1359.7,Sim
+0604-THJFP,Mulher,0,Sim,Sim,59,Sim,Não,Sem Fibra Óptica,Não,Sim,Não,Sim,Sim,Sim,Dois anos,Sim,Cartão de Crédito,75.95,4542.35,Não
+2834-JRTUA,Homem,0,Não,Não,71,Sim,Sim,Fibra Óptica,Sim,Não,Sim,Sim,Sim,Sim,Dois anos,Sim,Cobrança Eletrônica,108.05,7532.15,Sim
+5875-YPQFJ,Homem,0,Não,Não,1,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,69.9,69.9,Sim
+5879-SESNB,Mulher,0,Não,Não,11,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Cobrança Eletrônica,75.25,888.65,Não
+6646-QVXLR,Homem,1,Sim,Não,62,Sim,Sim,Fibra Óptica,Não,Sim,Sim,Não,Sim,Sim,Um ano,Sim,Cobrança Eletrônica,103.75,6383.35,Sim
+6461-PPAXN,Mulher,0,Sim,Sim,35,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Sim,Não,Não,Um ano,Sim,Transferência Bancária,54.95,1916,Não
+3318-ISQFQ,Mulher,0,Não,Não,20,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Sim,Transferência Bancária,19.5,413,Não
+1106-HRLKZ,Homem,0,Sim,Sim,40,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cobrança Correio,19.6,808.95,Não
+2483-XSSMZ,Mulher,0,Não,Não,39,Sim,Não,Sem Fibra Óptica,Sim,Não,Não,Não,Não,Não,Um ano,Sim,Cobrança Eletrônica,47.85,1886.4,Não
+8603-IJWDN,Homem,0,Não,Não,1,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Sim,Mês a mês,Sim,Cobrança Eletrônica,86.6,86.6,Sim
+8165-ZJRNM,Mulher,0,Sim,Sim,72,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,23.75,1679.25,Não
+9369-XFEHK,Mulher,1,Sim,Não,33,Sim,Sim,Fibra Óptica,Não,Sim,Não,Não,Não,Não,Mês a mês,Sim,Transferência Bancária,80.6,2656.5,Sim
+2604-XVDAM,Mulher,0,Não,Não,12,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Não,Transferência Bancária,43.8,540.95,Não
+3717-OFRTN,Homem,0,Não,Não,1,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Transferência Bancária,19.75,19.75,Não
+9046-JBFWA,Homem,0,Não,Sim,27,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Mês a mês,Não,Cobrança Correio,19.15,537.35,Não
+3280-NMUVX,Homem,0,Sim,Sim,34,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Um ano,Não,Cartão de Crédito,19.6,678.8,Não
+1206-EHBDD,Mulher,0,Sim,Não,56,Sim,Não,Fibra Óptica,Sim,Não,Sim,Não,Não,Não,Dois anos,Não,Transferência Bancária,80.3,4513.65,Não
+8361-LBRDI,Mulher,0,Não,Não,58,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,24.35,1423.85,Não
+4883-KCPZJ,Mulher,0,Sim,Sim,22,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,25.25,555.4,Não
+9108-EQPNQ,Mulher,0,Sim,Sim,10,Sim,Sim,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,26.1,225.55,Não
+7277-KAMWT,Homem,0,Não,Não,13,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Cartão de Crédito,20,268.45,Não
+3842-IYKUE,Mulher,0,Não,Não,35,Sim,Sim,Fibra Óptica,Não,Sim,Não,Sim,Não,Não,Mês a mês,Não,Cartão de Crédito,85.3,2917.5,Sim
+6641-XRPSU,Mulher,0,Não,Não,34,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cartão de Crédito,70,2416.1,Sim
+1374-DMZUI,Mulher,1,Não,Não,4,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,94.3,424.45,Sim
+2545-LXYVJ,Homem,0,Sim,Não,72,Sim,Não,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Sem acesso a internet,Dois anos,Não,Transferência Bancária,20.7,1492.1,Não
+3234-VKACU,Homem,0,Não,Não,2,Sim,Não,Sem Fibra Óptica,Não,Não,Não,Sim,Sim,Sim,Mês a mês,Não,Cobrança Eletrônica,70.3,132.4,Não
+8357-EQXFO,Mulher,0,Não,Não,7,Sim,Não,Fibra Óptica,Não,Não,Sim,Não,Sim,Sim,Mês a mês,Sim,Cobrança Eletrônica,95.35,660.9,Sim
+1989-PRJHP,Homem,1,Sim,Não,27,Sim,Sim,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Eletrônica,75.5,1893.95,Sim
+8120-JDCAM,Homem,0,Sim,Sim,4,Sim,Não,Fibra Óptica,Não,Não,Não,Não,Não,Não,Mês a mês,Sim,Cobrança Correio,69.55,284.9,Não
