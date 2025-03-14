@@ -1,58 +1,66 @@
-# Análise de Churn em Clientes de Telecomunicações
+# Telecom Customer Churn Analysis
 
-Este projeto tem como objetivo analisar e prever o churn (rotatividade) de clientes em uma empresa de telecomunicações. Utilizamos SQL para exploração dos dados, Python para análise e modelagem preditiva, e Power BI e Tableau para visualização dos resultados.
+This project aims to analyze and predict customer churn (turnover) in a telecommunications company. We used **SQL** for data exploration, **Python** for analysis and predictive modeling, and **Power BI** and **Tableau** for data visualization.
 
-## Estrutura do Projeto
+---
 
-O projeto está dividido em três etapas principais:
+## Project Structure
 
-1. **Exploração dos Dados (SQL)**
-2. **Análise e Modelagem (Python)**
-3. **Visualização e Dashboards (Power BI & Tableau)**
+The project is divided into three main stages:
 
-### Etapa 1: Exploração dos Dados (SQL)
+1. **Data Exploration (SQL)**
+2. **Analysis and Modeling (Python)**
+3. **Visualization and Dashboards (Power BI & Tableau)**
 
-Nesta etapa, realizamos a exploração dos dados para entender melhor o comportamento dos clientes. As principais perguntas respondidas foram:
+---
 
-- Qual a taxa geral de churn?
-- Existe relação entre tempo de permanência (tenure) e churn?
-- Quais os métodos de pagamento mais utilizados pelos clientes que saíram?
-- Quais clientes possuem todos os serviços contratados?
-- Quais clientes não possuem conexão com internet?
-- Quais clientes optaram por cobrança digital?
+### Stage 1: Data Exploration (SQL)
 
-**Arquivos relacionados:**
+In this stage, we explored the data to better understand customer behavior. The key questions answered were:
+
+- What is the overall churn rate?
+- Is there a relationship between tenure (time as a customer) and churn?
+- What are the most used payment methods among churned customers?
+- Which customers have all services contracted?
+- Which customers do not have an internet connection?
+- Which customers opted for digital billing?
+
+**Related Files:**
 - `Alterar_nome_colunas.sql`
 - `Exploracao_dados.sql`
 
-### Etapa 2: Análise e Modelagem (Python)
+---
 
-Nesta etapa, realizamos a análise dos dados e a construção de um modelo preditivo para churn. Seguimos o exemplo do artigo [Como criar um modelo para predição de churn](https://medium.com/neuronio-br/como-criar-um-modelo-para-predi%C3%A7%C3%A3o-de-churn-aa11b9feb8a6).
+### Stage 2: Analysis and Modeling (Python)
 
-**Principais atividades:**
-- Carregar e Explorar os Dados
-- Explorar a Distribuição do Churn
-- Análise da cobrança mensal dos clientes
-- Análise do tempo de permanência dos clientes
-- Análise do tempo de contrato das empresas
-- Matriz de correlação do tempo de contrato, cobrança mensal e o total de cobrança
-- Construção do Modelo Preditivo de Churn
-- Identificação das variáveis mais impactantes (TOP 10)
-- Identificação de perfis propensos a sair
+In this stage, we performed data analysis and built a predictive churn model. We followed the example from the article [How to Create a Churn Prediction Model](https://medium.com/neuronio-br/como-criar-um-modelo-para-predi%C3%A7%C3%A3o-de-churn-aa11b9feb8a6).
 
-**Arquivos relacionados:**
+**Key Activities:**
+- Load and Explore Data
+- Explore Churn Distribution
+- Analyze Monthly Charges
+- Analyze Customer Tenure
+- Analyze Contract Duration
+- Create a Correlation Matrix (Contract Duration, Monthly Charges, and Total Charges)
+- Build a Predictive Churn Model
+- Identify Top 10 Most Impactful Variables
+- Identify Profiles Likely to Churn
+
+**Related Files:**
 - `Telco_Customer_Churn_Colunas_Alteradas.csv`
 - `Modelagem_dados.ipynb`
 
-### Etapa 3: Visualização e Dashboards (Power BI & Tableau)
+---
 
-Nesta etapa, criamos dashboards interativos para visualizar os insights obtidos nas etapas anteriores.
+### Stage 3: Visualization and Dashboards (Power BI & Tableau)
 
-**Dashboards criados:**
-- **Power BI:** Mostrando todos os serviços contratados por gênero.
-- **Tableau:** Cliente Ativo x não ativo, tempo de permanência dos clientes, métodos de pagamento, e cobrança.
+In this stage, we created interactive dashboards to visualize the insights obtained in the previous stages.
 
-**Arquivos relacionados:**
+**Dashboards Created:**
+- **Power BI:** Shows all services contracted by gender.
+- **Tableau:** Displays active vs. inactive customers, customer tenure, payment methods, and billing.
+
+**Related Files:**
 - `Dash_BI.gif`
 - `Dash_BI.pbix`
 - `Fundo_Preto_BI.jpg`
@@ -61,22 +69,60 @@ Nesta etapa, criamos dashboards interativos para visualizar os insights obtidos 
 - `Dash_Tableau.gif`
 - `Dash_Tableau.twb`
 
-## Base de Dados
+---
 
-A base de dados utilizada neste projeto é a `Telco_Customer_Churn.csv`, disponível no [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). Após a alteração dos nomes das colunas em SQL, o arquivo foi salvo como `Telco_Customer_Churn_Colunas_Alterado.csv`.
+## Dataset
 
-## Como Executar o Projeto
+The dataset used in this project is `Telco_Customer_Churn.csv`, available on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). After renaming the columns in SQL, the file was saved as `Telco_Customer_Churn_Colunas_Alterado.csv`.
 
-1. **Exploração dos Dados (SQL):**
-   - Execute os scripts SQL (`Alterar_nome_colunas.sql` e `Exploracao_dados.sql`) no MySQL para explorar os dados.
+---
 
-2. **Análise e Modelagem (Python):**
-   - Abra o notebook `Modelagem_dados.ipynb` no Jupyter Notebook ou Google Colab.
-   - Execute as células para carregar os dados, realizar a análise e construir o modelo preditivo.
+## How to Run the Project
 
-3. **Visualização e Dashboards (Power BI & Tableau):**
-   - Abra os arquivos `Dash_BI.pbix` no Power BI e `Dash_Tableau.twb` no Tableau para visualizar os dashboards.
+1. **Data Exploration (SQL):**
+   - Run the SQL scripts (`Alterar_nome_colunas.sql` and `Exploracao_dados.sql`) in MySQL to explore the data.
 
-## Conclusão
+2. **Analysis and Modeling (Python):**
+   - Open the `Modelagem_dados.ipynb` notebook in Jupyter Notebook or Google Colab.
+   - Execute the cells to load the data, perform the analysis, and build the predictive model.
 
-Este projeto proporcionou uma visão abrangente sobre o comportamento dos clientes e os fatores que influenciam o churn. Através da análise exploratória, modelagem preditiva e visualização dos dados, foi possível identificar padrões e insights valiosos que podem ajudar a empresa a reduzir a taxa de churn.
+3. **Visualization and Dashboards (Power BI & Tableau):**
+   - Open the `Dash_BI.pbix` file in Power BI and `Dash_Tableau.twb` in Tableau to view the dashboards.
+
+---
+
+## Conclusion
+
+This project provided a comprehensive view of customer behavior and the factors influencing churn. Through exploratory analysis, predictive modeling, and data visualization, we identified valuable patterns and insights that can help the company reduce its churn rate.
+
+---
+
+## Contact
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kalleu-ribeiro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kalleu156@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+</div>
+
+---
+
+## How to Contribute
+
+Contributions are welcome! Follow these steps:
+1. Fork the project.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature/new-feature`).
+5. Open a Pull Request.
+
+---
+
+## Next Steps
+
+- Expand the project with new analyses and predictive models.
+- Add support for real-time data updates.
+- Integrate machine learning models for more accurate predictions.
